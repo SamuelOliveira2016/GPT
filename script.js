@@ -84,10 +84,12 @@ const AtivarJarvis = () => {
 
 
 const PerguntarAoJarvis = (pergunta) => {
+    let Key = process.env.OPEN_API_KEY
+
     let url = 'https://api.openai.com/v1/chat/completions';
     let header = {
         "Content-Type": "application/json",
-        "Authorization": "Bearer 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"
+        "Authorization": "Bearer " + Key
     };
 
     let body = {
@@ -121,12 +123,14 @@ const PerguntarAoJarvis = (pergunta) => {
 };
 
 const FalarComJarvis = (textoParaFala) => {
+    let Key = process.env.AZURE_API_KEY
+
     const endpoint = "https://brazilsouth.tts.speech.microsoft.com/cognitiveservices/v1";
 
     const requestOptions = {
         method: 'POST',
         headers: {
-            'Ocp-Apim-Subscription-Key': '60c9e65035e1489381362859f14a2bac',
+            'Ocp-Apim-Subscription-Key': Key,
             'Content-Type': 'application/ssml+xml',
             'X-Microsoft-OutputFormat': 'audio-16khz-128kbitrate-mono-mp3',
             'User-Agent': 'curl',
