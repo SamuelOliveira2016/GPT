@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+/* styles.css */
+body {
+    background-color: #ffffff; /* Modo Claro: Fundo branco */
+    color: #000000; /* Modo Claro: Texto preto */
+}
+
+.dark-mode {
+    background-color: #000000; /* Modo Escuro: Fundo preto */
+    color: #ffffff; /* Modo Escuro: Texto branco */
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button{
+    padding: 12px 15px;
+    border-radius: 50%;
+    border: none;
+    background-color: #dd203c;
+    color: white;
+    cursor: pointer;
+}
+img{
+    margin-top: 50px;
+    width: 200px;
+}
+
+input{
+    min-width: 600px;
+    padding: 12px 15px;
+    border: none;
+    border-bottom: 1px solid#272727;
+}
+input:focus{
+    outline: none;
+}
+.barra_lateral{
+    width: 60px;
+    height: 100vh;
+    background-color: #dd203c;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.senai{
+    width: 200px;
+}
+#dark-mode-button{
+    position: absolute;
+    top: 10px;
+    right: 100px;
+}
+
+#microfone.recording {
+    background-color: red; /* Cor de fundo vermelha quando a gravação está ativa */
+    color: white; /* Cor do texto branco quando a gravação está ativa */
+    font-weight: bold; /* Texto em negrito quando a gravação está ativa */
+}

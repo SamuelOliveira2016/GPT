@@ -1,0 +1,381 @@
+
+//Precisa ser tudo em uma linha
+{"messages": [{"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."}, {"role": "user", "content": "Qual a metodologia seguida no SENAI Brasil?"},{"role": "assistant", "content": "É um prazer informar que a metodologia usada pelo SENAI é a MSEP, que é aMetodologia SENAI de Educação Profissional."}]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quais são os cursos oferecidos pelo SENAI - SP?"},
+    {"role": "assistant", "content": "O SENAI-SP oferece Cursos Técnicos, Cursos de Aprendizagem Industrial para empresas e para a comunidade, Cursos Técnicos Semipresenciais, cursos livres, graduações e pós-graduações em 28 áreas da indústria brasileira. Acesse o site sp.senai.br e navegue por todos os títulos entre os setores de Administração e Gestão; Alimentos e Bebidas; Construção Civil e Design de Mobiliário; Design de Moda, Têxtil, Vestuário, Calçados e Joalheira; Design Gráfico, Papel, Celulose, Gráfica e Editorial; Fabricação Mecânica e Manutenção Industrial; Logística e Transporte; Mecânica Automotiva; Mecatrônica, Sistemas de Automação, Energia e Eletrônica; Meio Ambiente, Saúde e Segurança do Trabalho; Metalurgia e Soldagem; Química, Cerâmica e Plásticos; Refrigeração e Climatização; e Tecnologia da Informação e Informática."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quais tipos de cursos posso fazer no SENAI-SP?"},
+    {"role": "assistant", "content": "Você tem diversas opções no SENAI-SP. Eles oferecem Cursos Técnicos, Cursos de Aprendizagem Industrial, Cursos Técnicos Semipresenciais, cursos livres, graduações e pós-graduações em 28 áreas da indústria brasileira. Se quiser conhecer mais, visite o site sp.senai.br e explore os cursos disponíveis."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quais tipos de cursos o SENAI-SP tem para oferecer?"}, 
+    {"role": "assistant", "content": "O SENAI-SP disponibiliza uma variedade de cursos, tais como Cursos Técnicos, Cursos de Aprendizagem Industrial, Cursos Técnicos Semipresenciais, cursos livres, graduações e pós-graduações em 28 áreas da indústria brasileira. Para obter mais informações, visite o site sp.senai.br e navegue pelos cursos nas áreas de Administração e Gestão, Alimentos e Bebidas, Construção Civil e Design de Mobiliário, entre outras."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "O que posso estudar no SENAI-SP?"}, 
+    {"role": "assistant", "content": "No SENAI-SP, você pode estudar uma ampla variedade de cursos, incluindo Cursos Técnicos, Cursos de Aprendizagem Industrial, Cursos Técnicos Semipresenciais, cursos livres, graduações e pós-graduações em 28 áreas da indústria brasileira. Para obter mais detalhes, visite o site sp.senai.br e explore os cursos disponíveis em setores como Administração e Gestão, Alimentos e Bebidas, Construção Civil e muito mais."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Conte-me sobre os cursos oferecidos pelo SENAI-SP."}, 
+    {"role": "assistant", "content": "Claro! O SENAI-SP oferece uma ampla variedade de cursos, incluindo Cursos Técnicos, Cursos de Aprendizagem Industrial, Cursos Técnicos Semipresenciais, cursos livres, graduações e pós-graduações em 28 áreas da indústria brasileira. Para obter informações detalhadas, recomendo visitar o site sp.senai.br e explorar os cursos disponíveis em setores como Administração e Gestão, Alimentos e Bebidas, Construção Civil e muitos outros."}
+]}
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Como posso me inscrever em um curso no SENAI?"}, 
+    {"role": "assistant", "content": "A forma de inscrição varia de acordo com o tipo de curso que você deseja fazer. Para cursos livres, você pode se inscrever online ou presencialmente nas escolas. Os Cursos Técnicos e de Aprendizagem Industrial requerem participação em processo seletivo, geralmente realizado duas vezes por ano, com informações disponíveis em nosso site: sp.senai.br. Para graduação e pós-graduação, acesse faculdades.sp.senai.br. Temos também cursos gratuitos online, que podem ser feitos ao longo do ano, disponíveis em online.sp.senai.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quais são os passos para ingressar em um curso no SENAI?"}, 
+    {"role": "assistant", "content": "Os passos para ingressar em um curso no SENAI variam dependendo do tipo de curso. Para cursos livres, você pode se inscrever online ou presencialmente nas escolas. Cursos Técnicos e de Aprendizagem Industrial requerem um processo seletivo, que geralmente ocorre duas vezes por ano e as informações estão disponíveis em nosso site: sp.senai.br. Para graduação e pós-graduação, visite faculdades.sp.senai.br. Além disso, oferecemos cursos gratuitos online durante todo o ano, que podem ser acessados em online.sp.senai.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Como fazer para me matricular em um curso no SENAI?"}, 
+    {"role": "assistant", "content": "A matrícula em um curso do SENAI depende do tipo de curso desejado. Para cursos livres, você pode se matricular online ou presencialmente nas escolas. Cursos Técnicos e de Aprendizagem Industrial exigem participação em um processo seletivo, geralmente realizado duas vezes por ano, com informações disponíveis em nosso site: sp.senai.br. Para graduação e pós-graduação, acesse faculdades.sp.senai.br. Também oferecemos cursos gratuitos online durante todo o ano, que podem ser acessados em online.sp.senai.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quais são os procedimentos para se inscrever em um curso no SENAI?"}, 
+    {"role": "assistant", "content": "Os procedimentos para se inscrever em um curso no SENAI dependem do tipo de curso que você deseja fazer. Para cursos livres, você pode se inscrever online ou presencialmente nas escolas. Para cursos Técnicos e de Aprendizagem Industrial, é necessário participar de um processo seletivo, que geralmente ocorre duas vezes por ano e as informações estão disponíveis em nosso site: sp.senai.br. Para graduação e pós-graduação, visite faculdades.sp.senai.br. Além disso, temos cursos gratuitos online disponíveis durante todo o ano, que podem ser acessados em online.sp.senai.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Explique o processo de inscrição em um curso no SENAI."}, 
+    {"role": "assistant", "content": "O processo de inscrição em um curso do SENAI varia dependendo do tipo de curso. Para cursos livres, você pode se inscrever online ou presencialmente nas escolas. Cursos Técnicos e de Aprendizagem Industrial requerem participação em um processo seletivo, geralmente realizado duas vezes por ano, com informações disponíveis em nosso site: sp.senai.br. Para graduação e pós-graduação, acesse faculdades.sp.senai.br. Também oferecemos cursos gratuitos online durante todo o ano, que podem ser acessados em online.sp.senai.br."}
+]}
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Os cursos no SENAI são gratuitos?"}, 
+    {"role": "assistant", "content": "Os cursos Técnicos e de Aprendizagem Industrial no SENAI são sempre gratuitos. Além disso, o SENAI-SP também oferece alguns cursos livres gratuitos e bolsas parciais em Cursos Superiores (graduação e pós-graduação)."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Existem cursos gratuitos no SENAI?"}, 
+    {"role": "assistant", "content": "Sim, o SENAI oferece cursos gratuitos. Os cursos Técnicos e de Aprendizagem Industrial são sempre gratuitos. Além disso, há cursos livres gratuitos disponíveis, e o SENAI-SP também oferece bolsas parciais em Cursos Superiores (graduação e pós-graduação)."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Posso estudar no SENAI de graça?"}, 
+    {"role": "assistant", "content": "Você pode estudar no SENAI de graça em alguns casos. Os cursos Técnicos e de Aprendizagem Industrial são sempre gratuitos. Além disso, o SENAI-SP oferece cursos livres gratuitos e bolsas parciais em Cursos Superiores (graduação e pós-graduação)."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "O SENAI-SP oferece cursos gratuitos?"}, 
+    {"role": "assistant", "content": "Sim, o SENAI-SP oferece cursos gratuitos. Os cursos Técnicos e de Aprendizagem Industrial são sempre gratuitos. Além disso, há cursos livres gratuitos disponíveis, e o SENAI-SP também oferece bolsas parciais em Cursos Superiores (graduação e pós-graduação)."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Como conseguir bolsas de estudos no SENAI?"}, 
+    {"role": "assistant", "content": "Para conseguir bolsas de estudos no SENAI, você pode se informar sobre as oportunidades disponíveis no site ou diretamente nas escolas. Além disso, o SENAI-SP oferece bolsas parciais em Cursos Superiores (graduação e pós-graduação). Os cursos Técnicos e de Aprendizagem Industrial são sempre gratuitos."}
+]}
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Os cursos no SENAI são pagos?"}, 
+    {"role": "assistant", "content": "Não, todos os Cursos Técnicos presenciais e de Aprendizagem Industrial do SENAI-SP são gratuitos. Além disso, você também pode encontrar uma lista de cursos livres gratuitos em nosso site. Para informações sobre os valores dos cursos de graduação e pós-graduação, consulte faculdades.sp.senai.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quais são os custos dos cursos no SENAI?"}, 
+    {"role": "assistant", "content": "Os cursos Técnicos presenciais e de Aprendizagem Industrial do SENAI-SP são gratuitos. Além disso, você pode encontrar uma lista de cursos livres gratuitos em nosso site. Para informações sobre os valores dos cursos de graduação e pós-graduação, consulte faculdades.sp.senai.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quanto devo pagar por um curso no SENAI?"}, 
+    {"role": "assistant", "content": "Não é necessário pagar pelos cursos Técnicos presenciais e de Aprendizagem Industrial do SENAI-SP, pois eles são gratuitos. Além disso, você também pode encontrar cursos livres gratuitos em nosso site. Para informações sobre os valores dos cursos de graduação e pós-graduação, consulte faculdades.sp.senai.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quais são os preços dos cursos do SENAI?"}, 
+    {"role": "assistant", "content": "Os Cursos Técnicos presenciais e de Aprendizagem Industrial do SENAI-SP são gratuitos. Além disso, você pode encontrar uma lista de cursos livres gratuitos em nosso site. Para informações sobre os valores dos cursos de graduação e pós-graduação, consulte faculdades.sp.senai.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Como funcionam os pagamentos dos cursos no SENAI?"}, 
+    {"role": "assistant", "content": "Os cursos Técnicos presenciais e de Aprendizagem Industrial do SENAI-SP são gratuitos, e você também pode encontrar cursos livres gratuitos em nosso site. Para informações sobre os valores dos cursos de graduação e pós-graduação, consulte faculdades.sp.senai.br."}
+]}
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "O que são os Cursos Técnicos do SENAI?"}, 
+    {"role": "assistant", "content": "Os Cursos Técnicos do SENAI são programas de formação que preparam os alunos com conhecimento teórico e prático para trabalhar em diversas áreas tecnológicas da indústria. Eles são oferecidos nos períodos da manhã, tarde e noite. Para participar, é necessário ter concluído a 1ª série do Ensino Médio até o início das aulas. Para os cursos no turno da noite, é necessário ter o Ensino Médio completo até o início das aulas."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quais são as características dos Cursos Técnicos do SENAI?"}, 
+    {"role": "assistant", "content": "Os Cursos Técnicos do SENAI são programas de formação que combinam teoria e prática para preparar os alunos para atuarem em várias áreas tecnológicas da indústria. Esses cursos são oferecidos nos períodos da manhã, tarde e noite. Para ingressar, é necessário ter concluído a 1ª série do Ensino Médio até o início das aulas. No caso dos cursos noturnos, é necessário ter o Ensino Médio completo até o início das aulas."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quem pode fazer os Cursos Técnicos do SENAI?"}, 
+    {"role": "assistant", "content": "Os Cursos Técnicos do SENAI são programas de formação que preparam os alunos com conhecimento teórico e prático para trabalhar em diversas áreas tecnológicas da indústria. Para se inscrever nos Cursos Técnicos oferecidos nos períodos da manhã, tarde e noite, é necessário ter concluído a 1ª série do Ensino Médio até a data de início das aulas. Para os cursos oferecidos no turno da noite, é necessário ter o Ensino Médio completo até o início das aulas."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Como funcionam os Cursos Técnicos do SENAI?"}, 
+    {"role": "assistant", "content": "Os Cursos Técnicos do SENAI são programas de formação que combinam teoria e prática para preparar os alunos para atuarem em várias áreas tecnológicas da indústria. Eles são oferecidos nos períodos da manhã, tarde e noite. Para se inscrever, é necessário ter concluído a 1ª série do Ensino Médio até o início das aulas. No caso dos cursos noturnos, é necessário ter o Ensino Médio completo até o início das aulas."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quem pode participar dos Cursos Técnicos do SENAI?"}, 
+    {"role": "assistant", "content": "Os Cursos Técnicos do SENAI são programas de formação que preparam os alunos com conhecimento teórico e prático para trabalhar em diversas áreas tecnológicas da indústria. Para participar dos Cursos Técnicos oferecidos nos períodos da manhã, tarde e noite, é necessário ter concluído a 1ª série do Ensino Médio até o início das aulas. Para os cursos oferecidos no turno da noite, é necessário ter o Ensino Médio completo até o início das aulas."}
+]}
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "O que são os cursos Tecnólogos do SENAI?"}, 
+    {"role": "assistant", "content": "Os cursos Tecnólogos do SENAI são cursos superiores de Tecnologia, equivalentes à graduação, projetados para alunos que possuem o Ensino Médio completo. Após a conclusão do curso, o aluno recebe um diploma de tecnólogo, que é válido e reconhecido como um curso superior."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "O que caracteriza os cursos Tecnólogos do SENAI?"}, 
+    {"role": "assistant", "content": "Os cursos Tecnólogos do SENAI são cursos superiores de Tecnologia, que equivalem à graduação. Eles são destinados a estudantes que tenham concluído o Ensino Médio. Ao final do curso, os alunos recebem um diploma de tecnólogo, que é reconhecido como um curso superior válido."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quem pode se inscrever nos cursos Tecnólogos do SENAI?"}, 
+    {"role": "assistant", "content": "Os cursos Tecnólogos do SENAI são cursos superiores de Tecnologia, equivalentes à graduação, e são voltados para alunos que tenham concluído o Ensino Médio. Ao concluir o curso, os alunos recebem um diploma de tecnólogo, que é válido e reconhecido como um curso superior."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Como funcionam os cursos Tecnólogos do SENAI?"}, 
+    {"role": "assistant", "content": "Os cursos Tecnólogos do SENAI são cursos superiores de Tecnologia, equivalentes à graduação, e são destinados a alunos que tenham concluído o Ensino Médio. Ao concluir o curso, os alunos recebem um diploma de tecnólogo, que é reconhecido como um curso superior válido."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quem é elegível para os cursos Tecnólogos do SENAI?"}, 
+    {"role": "assistant", "content": "Os cursos Tecnólogos do SENAI são cursos superiores de Tecnologia, equivalentes à graduação, e são voltados para alunos que tenham o Ensino Médio completo. Ao concluir o curso, os alunos recebem um diploma de tecnólogo, que é reconhecido como um curso superior válido."}
+]}
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Qual é a diferença entre um Curso Técnico e um Curso Tecnólogo?"}, 
+    {"role": "assistant", "content": "A principal diferença entre um Curso Técnico e um Curso Tecnólogo está no nível de formação. O Curso Técnico é de nível médio, tem uma duração de até dois anos e pode ser feito por alunos ainda no Ensino Médio. Ele é voltado para a preparação para o mercado de trabalho. Por outro lado, o Curso Tecnólogo é um curso de graduação de nível superior, tem uma duração entre dois e três anos e precisa ser realizado após a conclusão do Ensino Médio. Normalmente, é direcionado para profissionais que desejam avançar em suas carreiras."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quais são as diferenças entre um Curso Técnico e um Curso Tecnólogo?"}, 
+    {"role": "assistant", "content": "A principal diferença entre um Curso Técnico e um Curso Tecnólogo está no nível de formação. O Curso Técnico é de nível médio, com duração de até dois anos, podendo ser feito por alunos ainda no Ensino Médio, e é focado na preparação para o mercado de trabalho. Enquanto isso, o Curso Tecnólogo é um curso de graduação de nível superior, com duração de dois a três anos, e deve ser realizado após a conclusão do Ensino Médio. Geralmente, é destinado a profissionais que desejam avançar em suas carreiras."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Explique a diferença entre Curso Técnico e Curso Tecnólogo."}, 
+    {"role": "assistant", "content": "A principal diferença entre um Curso Técnico e um Curso Tecnólogo está no nível de formação. O Curso Técnico é de nível médio, tem uma duração de até dois anos e pode ser realizado por alunos ainda no Ensino Médio. É voltado para a inserção no mercado de trabalho. Já o Curso Tecnólogo é um curso de graduação de nível superior, com duração entre dois e três anos, e deve ser feito após a conclusão do Ensino Médio. Geralmente, é direcionado para profissionais que desejam avançar em suas carreiras."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quais são as principais distinções entre Curso Técnico e Curso Tecnólogo?"}, 
+    {"role": "assistant", "content": "A principal distinção entre um Curso Técnico e um Curso Tecnólogo está no nível de formação. O Curso Técnico é de nível médio, tem duração de até dois anos e pode ser feito por alunos ainda no Ensino Médio, visando a entrada no mercado de trabalho. Em contraste, o Curso Tecnólogo é um curso de graduação de nível superior, com duração de dois a três anos, que deve ser feito após a conclusão do Ensino Médio e geralmente é voltado para profissionais que desejam progresso em suas carreiras."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quais diferenças existem entre um Curso Técnico e um Curso Tecnólogo?"}, 
+    {"role": "assistant", "content": "A diferença principal entre um Curso Técnico e um Curso Tecnólogo está no nível de formação. O Curso Técnico é de nível médio, tem duração de até dois anos e pode ser feito por alunos ainda no Ensino Médio, preparando-os para o mercado de trabalho. Por outro lado, o Curso Tecnólogo é um curso de graduação de nível superior, com duração entre dois e três anos, que deve ser realizado após a conclusão do Ensino Médio, geralmente visando profissionais que desejam avançar em suas carreiras."}
+]}
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "O que envolvem os cursos de Aprendizagem Industrial?"}, 
+    {"role": "assistant", "content": "Os cursos de Aprendizagem Industrial qualificam profissionais para atuarem em diversas áreas da indústria, como administração, alimentos, mecânica, automação, metalurgia, automobilística, construção civil, refrigeração, calçados, transporte e mais. Eles são voltados para jovens a partir de 14 anos, com idade máxima que lhes permita concluir o curso antes de completarem 24 anos. A seleção ocorre primeiro para candidatos encaminhados formalmente por empresas contribuintes do SENAI-SP. Se houver vagas remanescentes, há um processo seletivo complementar para candidatos da comunidade."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "O que são os cursos de Aprendizagem Industrial?"}, 
+    {"role": "assistant", "content": "Os cursos de Aprendizagem Industrial visam qualificar profissionais para trabalhar em várias áreas do setor industrial, como administração, alimentos, mecânica, automação, metalurgia, automobilística, construção civil, refrigeração, calçados, transporte e outras. Esses cursos são destinados a jovens a partir de 14 anos, com uma idade máxima que lhes permita concluir o curso antes de completarem 24 anos. A seleção inicial ocorre para candidatos encaminhados formalmente por empresas contribuintes do SENAI-SP, e, se houver vagas disponíveis, há um processo seletivo adicional para candidatos da comunidade."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quais são os detalhes dos cursos de Aprendizagem Industrial?"}, 
+    {"role": "assistant", "content": "Os cursos de Aprendizagem Industrial têm o objetivo de qualificar profissionais para atuar em várias áreas do setor industrial, como administração, alimentos, mecânica, automação, metalurgia, automobilística, construção civil, refrigeração, calçados, transporte e muito mais. Esses cursos são voltados para jovens a partir de 14 anos, com uma idade máxima que lhes permita concluir o curso antes de completarem 24 anos. A seleção inicial é para candidatos encaminhados formalmente por empresas contribuintes do SENAI-SP, e, se houver vagas restantes, ocorre um processo seletivo complementar para candidatos da comunidade."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quem pode participar dos cursos de Aprendizagem Industrial?"}, 
+    {"role": "assistant", "content": "Os cursos de Aprendizagem Industrial são voltados para jovens a partir de 14 anos, com uma idade máxima que lhes permita concluir o curso antes de completarem 24 anos. A seleção inicial é para candidatos encaminhados formalmente por empresas contribuintes do SENAI-SP, e, se houver vagas disponíveis, ocorre um processo seletivo adicional para candidatos da comunidade. Esses cursos qualificam profissionais para atuar em diversas áreas da indústria."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Como funcionam os cursos de Aprendizagem Industrial?"}, 
+    {"role": "assistant", "content": "Os cursos de Aprendizagem Industrial preparam profissionais para áreas do setor industrial, como administração, alimentos, mecânica, automação, metalurgia, automobilística, construção civil, refrigeração, calçados, transporte e mais. Eles são destinados a jovens a partir de 14 anos, com uma idade máxima que lhes permita concluir o curso antes de completarem 24 anos. A seleção inicial ocorre para candidatos encaminhados formalmente por empresas contribuintes do SENAI-SP, e, se houver vagas disponíveis, há um processo seletivo adicional para candidatos da comunidade."}
+]}
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Pode me explicar como funcionam os cursos técnicos no SENAI?"}, 
+    {"role": "assistant", "content": "Nos cursos técnicos semipresenciais do SENAI-SP, 80% da carga horária é realizada a distância, no ambiente virtual de aprendizagem do SENAI-SP, e os 20% restantes são realizados presencialmente, na escola escolhida pelo aluno no momento da matrícula, de acordo com horário e datas disponíveis."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Como funcionam os cursos técnicos no SENAI?"}, 
+    {"role": "assistant", "content": "Nos cursos técnicos semipresenciais do SENAI-SP, a maior parte da carga horária, ou seja, 80%, é realizada a distância, no ambiente virtual de aprendizagem do SENAI-SP. Os 20% restantes são ministrados presencialmente, na escola escolhida pelo aluno no momento da matrícula, de acordo com horários e datas disponíveis."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Explique como funcionam os cursos técnicos oferecidos pelo SENAI."}, 
+    {"role": "assistant", "content": "Os cursos técnicos semipresenciais do SENAI-SP funcionam da seguinte forma: 80% da carga horária é realizada a distância, no ambiente virtual de aprendizagem do SENAI-SP, e os 20% restantes são ministrados presencialmente, na escola escolhida pelo aluno durante o processo de matrícula, de acordo com horários e datas disponíveis."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Poderia me detalhar como os cursos técnicos funcionam no SENAI?"}, 
+    {"role": "assistant", "content": "Nos cursos técnicos semipresenciais do SENAI-SP, a maior parte da carga horária, ou seja, 80%, é realizada a distância, no ambiente virtual de aprendizagem do SENAI-SP. Os 20% restantes são ministrados presencialmente, na escola escolhida pelo aluno no momento da matrícula, de acordo com horários e datas disponíveis."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quero entender como são estruturados os cursos técnicos no SENAI."}, 
+    {"role": "assistant", "content": "Os cursos técnicos semipresenciais do SENAI-SP são estruturados da seguinte maneira: 80% da carga horária é realizada a distância, no ambiente virtual de aprendizagem do SENAI-SP, e os 20% restantes são ministrados presencialmente, na escola escolhida pelo aluno no ato da matrícula, de acordo com horários e datas disponíveis."}
+]}
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Há cursos online gratuitos no SENAI?"}, 
+    {"role": "assistant", "content": "Sim, o SENAI-SP oferece cursos online gratuitos que permitem a formação profissional sem a necessidade de frequentar uma escola ou espaço físico. Essa modalidade de ensino respeita o ritmo de aprendizagem de cada indivíduo e oferece liberdade na organização dos horários de estudo. Todas as informações, inscrições e programações dos cursos estão disponíveis em online.sp.senai.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "O SENAI oferece cursos online gratuitos?"}, 
+    {"role": "assistant", "content": "Sim, o SENAI-SP disponibiliza cursos online gratuitos que possibilitam a formação profissional sem a necessidade de comparecer a uma escola ou local físico. Essa abordagem de ensino respeita o ritmo de aprendizagem de cada indivíduo e oferece flexibilidade na organização dos horários de estudo. Todas as informações, inscrições e programações dos cursos estão disponíveis em online.sp.senai.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Existem cursos online gratuitos no SENAI?"}, 
+    {"role": "assistant", "content": "Sim, o SENAI-SP oferece cursos online gratuitos que permitem a formação profissional sem a necessidade de frequentar uma escola ou espaço físico. Essa modalidade de ensino respeita o ritmo de aprendizagem de cada indivíduo e proporciona maior flexibilidade na organização dos horários de estudo. Todas as informações, inscrições e programações dos cursos estão disponíveis em online.sp.senai.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "O SENAI oferece cursos gratuitos online?"}, 
+    {"role": "assistant", "content": "Sim, o SENAI-SP disponibiliza cursos online gratuitos que possibilitam a formação profissional sem a necessidade de se deslocar para uma escola ou espaço físico. Essa modalidade de ensino respeita o ritmo de aprendizagem de cada pessoa e oferece liberdade na organização dos horários de estudo. Todas as informações, inscrições e programações dos cursos estão disponíveis em online.sp.senai.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Existe a possibilidade de fazer cursos online gratuitos no SENAI?"}, 
+    {"role": "assistant", "content": "Sim, o SENAI-SP oferece cursos online gratuitos que permitem a formação profissional sem a necessidade de se deslocar para uma escola ou espaço físico. Essa modalidade de ensino respeita o ritmo de aprendizagem de cada pessoa e proporciona maior liberdade na organização dos horários de estudo. Todas as informações, inscrições e programações dos cursos estão disponíveis em online.sp.senai.br."}
+]}
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Os cursos no SENAI em São Paulo são padronizados em todas as unidades?"}, 
+    {"role": "assistant", "content": "Não, as unidades do SENAI em São Paulo podem oferecer cursos em diferentes modalidades e áreas tecnológicas. Para conhecer os cursos disponíveis em cada localidade, basta acessar sp.senai.br/unidades e entrar em contato com a unidade desejada para obter informações específicas."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "São os mesmos cursos em todas as unidades do SENAI-SP?"}, 
+    {"role": "assistant", "content": "Não, as unidades do SENAI em São Paulo podem oferecer cursos em diferentes modalidades e áreas tecnológicas. Para conhecer os cursos ofertados em cada localidade, você pode acessar sp.senai.br/unidades e entrar em contato com a unidade específica para obter informações detalhadas."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Os cursos no SENAI - SP são uniformes em todas as unidades?"}, 
+    {"role": "assistant", "content": "Não, as unidades do SENAI em São Paulo podem oferecer cursos em diferentes modalidades e áreas tecnológicas. Para conhecer os cursos disponíveis em cada localidade, acesse sp.senai.br/unidades e entre em contato com a unidade desejada para obter informações específicas."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Existe padronização nos cursos em todas as unidades do SENAI-SP?"}, 
+    {"role": "assistant", "content": "Não, as unidades do SENAI em São Paulo podem oferecer cursos em diferentes modalidades e áreas tecnológicas. Para saber quais cursos são oferecidos em cada unidade, acesse sp.senai.br/unidades e entre em contato diretamente com a unidade que você tem interesse."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Os cursos do SENAI em São Paulo são os mesmos em todas as unidades?"}, 
+    {"role": "assistant", "content": "Não, as unidades do SENAI em São Paulo podem oferecer cursos em diferentes modalidades e áreas tecnológicas. Para conhecer os cursos disponíveis em cada localidade, acesse sp.senai.br/unidades e entre em contato com a unidade específica para obter informações detalhadas."}
+]}
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Os cursos do SENAI-SP são reconhecidos pelo MEC?"}, 
+    {"role": "assistant", "content": "Sim, todos os cursos superiores do SENAI-SP passam por um processo de reconhecimento pelo Ministério da Educação, conforme estabelecido na Portaria MEC 1005/2014. As informações sobre o reconhecimento estão disponíveis na consulta pública do MEC, que pode ser acessada através do link emec.mec.gov.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Os cursos do SENAI são registrados no MEC?"}, 
+    {"role": "assistant", "content": "Sim, todos os cursos superiores oferecidos pelo SENAI-SP são submetidos a um processo de reconhecimento pelo Ministério da Educação, conforme estabelecido na Portaria MEC 1005/2014. As informações sobre o reconhecimento podem ser consultadas publicamente no site do MEC, através do link emec.mec.gov.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "O MEC reconhece os cursos do SENAI em São Paulo?"}, 
+    {"role": "assistant", "content": "Sim, todos os cursos superiores oferecidos pelo SENAI-SP passam por um processo de reconhecimento pelo Ministério da Educação, conforme especificado na Portaria MEC 1005/2014. As informações sobre o reconhecimento podem ser acessadas na consulta pública do MEC, disponível em emec.mec.gov.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Como funciona o reconhecimento dos cursos do SENAI pelo MEC?"}, 
+    {"role": "assistant", "content": "Todos os cursos superiores do SENAI-SP passam por um processo de reconhecimento pelo Ministério da Educação, conforme previsto na Portaria MEC 1005/2014. As informações sobre o reconhecimento estão disponíveis na consulta pública do MEC, no link emec.mec.gov.br."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Os cursos superiores do SENAI têm reconhecimento do MEC?"}, 
+    {"role": "assistant", "content": "Sim, todos os cursos superiores oferecidos pelo SENAI-SP são submetidos a um processo de reconhecimento pelo Ministério da Educação, de acordo com a Portaria MEC 1005/2014. As informações sobre o reconhecimento podem ser consultadas no site do MEC, através do link emec.mec.gov.br."}
+]}
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Se eu estiver no ensino médio no SESI, eu tenho uma vaga garantida no SENAI?"}, 
+    {"role": "assistant", "content": "Não, apenas os estudantes do Novo Ensino Médio do SESI em São Paulo terão a oportunidade de estudar também no SENAI-SP. A partir do 2º ano, os estudantes podem escolher entre os Itinerários Formativos oferecidos para complementar sua formação básica. Aqueles que optarem pelo Itinerário de Formação Técnica e Profissional estudarão de forma integrada no SESI e no SENAI."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Estudantes do SESI que cursam o ensino médio têm vaga garantida no SENAI?"}, 
+    {"role": "assistant", "content": "Não, somente os estudantes do Novo Ensino Médio do SESI em São Paulo terão a oportunidade de estudar no SENAI-SP. A partir do 2º ano, eles podem escolher entre os Itinerários Formativos oferecidos para complementar sua formação básica. Aqueles que optarem pelo Itinerário de Formação Técnica e Profissional estudarão de forma integrada no SESI e no SENAI."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Quem está matriculado no ensino médio no SESI tem a vaga assegurada no SENAI?"}, 
+    {"role": "assistant", "content": "Não, apenas os estudantes do Novo Ensino Médio do SESI em São Paulo terão a oportunidade de estudar também no SENAI-SP. A partir do 2º ano, os estudantes podem escolher entre os Itinerários Formativos oferecidos para complementar sua formação básica. Aqueles que optarem pelo Itinerário de Formação Técnica e Profissional estudarão de forma integrada no SESI e no SENAI."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Os estudantes do SESI que estão no ensino médio têm vaga assegurada no SENAI?"}, 
+    {"role": "assistant", "content": "Não, somente os estudantes do Novo Ensino Médio do SESI em São Paulo terão a oportunidade de estudar no SENAI-SP. A partir do 2º ano, eles podem escolher entre os Itinerários Formativos oferecidos para complementar sua formação básica. Aqueles que optarem pelo Itinerário de Formação Técnica e Profissional estudarão de forma integrada no SESI e no SENAI."}
+]}
+
+{"messages": [
+    {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."},
+    {"role": "user", "content": "Se eu estiver cursando o ensino médio no SESI, eu tenho uma vaga garantida no SENAI?"}, 
+    {"role": "assistant", "content": "Não, somente os estudantes do Novo Ensino Médio do SESI em São Paulo terão a oportunidade de estudar também no SENAI-SP. A partir do 2º ano, eles podem escolher entre os Itinerários Formativos oferecidos para complementar sua formação básica. Aqueles que optarem pelo Itinerário de Formação Técnica e Profissional estudarão de forma integrada no SESI e no SENAI."}
+]}
