@@ -1,2 +1,0 @@
-# GPT
-Curso IA - Generativa
