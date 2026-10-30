@@ -1,0 +1,69 @@
+{
+  "versao": 1,
+  "ordem_pesos_turnos": [
+    "Manhã",
+    "Tarde",
+    "Noite"
+  ],
+  "pesos": {
+    "0": "Turno não permitido",
+    "1": "Permitido para complementar a carga",
+    "2": "Prioridade de alocação"
+  },
+  "prioridade_ofertas": [
+    "Regular",
+    "FIC"
+  ],
+  "fic": {
+    "dias_permitidos": [
+      "Segunda",
+      "Terça",
+      "Quarta",
+      "Quinta",
+      "Sexta",
+      "Sábado"
+    ],
+    "turnos_dias_uteis": [
+      "Noite"
+    ],
+    "turnos_sabado": "Configuráveis; respeitar jornada e descanso",
+    "sabados_contam_como_dias_letivos_regulares": false,
+    "sabados_exclusivos_fic": true,
+    "feriado_no_sabado_bloqueia_aulas": true,
+    "calendario": "Disponibilidade FIC separada da contagem de dias letivos regulares; sábados exigem verificação explícita de feriados, mesmo fora do calendário regular. Ausência de informação não comprova dia disponível."
+  },
+  "jornada": {
+    "maximo_turnos_por_dia": 2,
+    "pares_permitidos": [
+      [
+        "Manhã",
+        "Tarde"
+      ],
+      [
+        "Tarde",
+        "Noite"
+      ]
+    ],
+    "pares_proibidos": [
+      [
+        "Manhã",
+        "Noite"
+      ]
+    ],
+    "descanso_minimo_horas": 11,
+    "sabado_exige_folga_segunda_a_sexta": true,
+    "folga_significa": "Dia inteiro sem atividade docente em qualquer turno, incluindo Regular e FIC",
+    "semana_referencia": "Segunda a domingo; folga de segunda a sexta da mesma semana do sábado"
+  },
+  "horarios": {
+    "configuraveis": true,
+    "noite_termino_referencia": "22:00",
+    "manha_inicio_referencia": "07:30",
+    "inicio_minimo_apos_termino_22h": "09:00",
+    "observacao": "Referências para validar descanso; intervalos completos de turnos e FIC ainda precisam ser configurados, sem atribuição aleatória na grade oficial."
+  },
+  "estado_implementacao": {
+    "registro": "Regras confirmadas; semana de referência adotada como padrão explícito",
+    "motor_atual": "Piloto regular por blocos, sem horários de relógio. Ainda não aplica descanso, pares de turnos, pesos de disponibilidade, FIC ou folga compensatória. Exige extensão antes de gerar grade conjunta Regular/FIC."
+  }
+}

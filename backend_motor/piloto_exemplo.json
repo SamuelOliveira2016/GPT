@@ -1,0 +1,16 @@
+{
+  "inicio": "2027-01-25",
+  "fim": "2027-06-23",
+  "subturmas": [
+    "M1EME-COM-1/27 (Única)",
+    "M1EME-ARA-1/27 (Única)"
+  ],
+  "horas_restantes": {},
+  "indisponibilidades_docentes": [],
+  "indisponibilidades_ambientes": [],
+  "reservas_externas": [],
+  "limites_semanais_docentes": {},
+  "alocacoes_fixas": [],
+  "limite_tempo_segundos": 30,
+  "modo_demonstracao": true
+}

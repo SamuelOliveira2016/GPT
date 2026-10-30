@@ -1,0 +1,35 @@
+ID_Subturma,ID_Turma_Base,Curso,Subturma,Alunos,Turno,Dias_Semana,Ambientes_Necessarios
+M1EME-COM-1/27 (Única),M1EME-COM-1/27,Eletricista de Manutenção Eletroeletrônica,Única,16,Manhã,Segunda a Sexta,1
+M1EME-ARA-1/27 (Única),M1EME-ARA-1/27,Eletricista de Manutenção Eletroeletrônica,Única,16,Manhã,Segunda a Sexta,1
+M1MUSI-COM-1/27 - A,M1MUSI-COM-1/27,Mecânico de Usinagem,A,16,Manhã,Segunda a Sexta,1
+M1MUSI-COM-1/27 - B,M1MUSI-COM-1/27,Mecânico de Usinagem,B,16,Manhã,Segunda a Sexta,1
+M1MMAV-ARA-1/27 (Única),M1MMAV-ARA-1/27,Mecânico de Máquinas Agrícolas e Veículos Pesados,Única,16,Manhã,Segunda a Sexta,1
+M3MMAV-RAI-1/26 (Única),M3MMAV-RAI-1/26,Mecânico de Máquinas Agrícolas e Veículos Pesados,Única,12,Manhã,Segunda a Sexta,1
+T3EME-COM-1/26 - A,T3EME-COM-1/26,Eletricista de Manutenção Eletroeletrônica,A,15,Tarde,Segunda a Sexta,1
+T3EME-COM-1/26 - B,T3EME-COM-1/26,Eletricista de Manutenção Eletroeletrônica,B,15,Tarde,Segunda a Sexta,1
+T3EME-RAI-2/25 (Única),T3EME-RAI-2/25,Eletricista de Manutenção Eletroeletrônica,Única,12,Tarde,Segunda a Sexta,1
+T3MUSI-COM-1/26 - A,T3MUSI-COM-1/26,Mecânico de Usinagem,A,16,Tarde,Segunda a Sexta,1
+T3MUSI-COM-1/26 - B,T3MUSI-COM-1/26,Mecânico de Usinagem,B,15,Tarde,Segunda a Sexta,1
+T3MMAV-RAI-2/25 (Única),T3MMAV-RAI-2/25,Mecânico de Máquinas Agrícolas e Veículos Pesados,Única,13,Tarde,Segunda a Sexta,1
+T1MMAV-RAI-2/26 (Única),T1MMAV-RAI-2/26,Mecânico de Máquinas Agrícolas e Veículos Pesados,Única,20,Tarde,Segunda a Sexta,1
+I2MMAV-MATA/26 (Única),I2MMAV-MATA/26,Mecânico de Máquinas Agrícolas e Veículos Pesados,Única,15,Integral,Segunda e Terça,1
+I1MMAV-VIT-1/27 (Única),I1MMAV-VIT-1/27,Mecânico de Máquinas Agrícolas e Veículos Pesados,Única,16,Integral,Quarta e Quinta,1
+I1A-AUT-ATA/27 - A,I1A-AUT-ATA/27,Técnico em Automação Industrial,A,16,Integral,Quinta e Sexta,1
+I1A-AUT-ATA/27 - B,I1A-AUT-ATA/27,Técnico em Automação Industrial,B,16,Integral,Quinta e Sexta,1
+I1B-AUT-ATA/27 - A,I1B-AUT-ATA/27,Técnico em Automação Industrial,A,16,Integral,Quinta e Sexta,1
+I1B-AUT-ATA/27 - B,I1B-AUT-ATA/27,Técnico em Automação Industrial,B,16,Integral,Quinta e Sexta,1
+I2A-AUT-ATA/26 - A,I2A-AUT-ATA/26,Técnico em Automação Industrial,A,16,Integral,Segunda e Terça,1
+I2A-AUT-ATA/26 - B,I2A-AUT-ATA/26,Técnico em Automação Industrial,B,16,Integral,Segunda e Terça,1
+I2B-AUT-ATA/26 - A,I2B-AUT-ATA/26,Técnico em Automação Industrial,A,16,Integral,Segunda e Terça,1
+I2B-AUT-ATA/26 - B,I2B-AUT-ATA/26,Técnico em Automação Industrial,B,16,Integral,Segunda e Terça,1
+I1-DEV-ATA-1/27 - A,I1-DEV-ATA-1/27,Técnico em Desenvolvimento de Sistemas,A,16,Integral,Quinta e Sexta,1
+I1-DEV-ATA-1/27 - B,I1-DEV-ATA-1/27,Técnico em Desenvolvimento de Sistemas,B,16,Integral,Quinta e Sexta,1
+I2-DEV-ATA-1/26 - A,I2-DEV-ATA-1/26,Técnico em Desenvolvimento de Sistemas,A,16,Integral,Segunda e Terça,1
+I2-DEV-ATA-1/26 - B,I2-DEV-ATA-1/26,Técnico em Desenvolvimento de Sistemas,B,16,Integral,Segunda e Terça,1
+I1MAUT-ATA-1/27 - A,I1MAUT-ATA-1/27,Técnico em Manutenção Automotiva,A,16,Integral,Quinta e Sexta,1
+I1MAUT-ATA-1/27 - B,I1MAUT-ATA-1/27,Técnico em Manutenção Automotiva,B,16,Integral,Quinta e Sexta,1
+I2MAUT-ATA-1/26 - A,I2MAUT-ATA-1/26,Técnico em Manutenção Automotiva,A,16,Integral,Segunda e Terça,1
+I2MAUT-ATA-1/26 - B,I2MAUT-ATA-1/26,Técnico em Manutenção Automotiva,B,15,Integral,Segunda e Terça,1
+I1QUA-SEDUC/27 (Cheia),I1QUA-SEDUC/27,Técnico em Qualidade,Cheia,32,Integral,Terça e Quarta,1
+I2QUA-SEDUC/26 (Cheia),I2QUA-SEDUC/26,Técnico em Qualidade,Cheia,32,Integral,Quinta e Sexta,1
+I1ELE-COLOR/27 (Única),I1ELE-COLOR/27,Técnico em Eletroeletrônica,Única,16,Integral,Quarta e Quinta,1

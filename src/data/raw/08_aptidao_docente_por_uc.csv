@@ -1,0 +1,515 @@
+ID_Docente,Nome_Curto,Nome_Completo,Elegivel_Cursos_Regulares,Disponivel_FIC_Noturno,Curso,Termo_Semestre,Unidade_Curricular,Carga_Horaria_UC,Nivel_Aptidao_Declarado,Peso_Afinidade_Motor
+DOC01,VINICIUS CAMARGO (FIC),Vinicius Rodrigues Camargo,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Plenamente Apto (Teórico + Prático),30
+DOC01,VINICIUS CAMARGO (FIC),Vinicius Rodrigues Camargo,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Análise e Modelagem de Sistemas,60,Apto (Prático/Lab),15
+DOC01,VINICIUS CAMARGO (FIC),Vinicius Rodrigues Camargo,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Banco de Dados Relacional,80,Plenamente Apto (Teórico + Prático),30
+DOC01,VINICIUS CAMARGO (FIC),Vinicius Rodrigues Camargo,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento de Aplicações Web (Front-End),80,Plenamente Apto (Teórico + Prático),30
+DOC01,VINICIUS CAMARGO (FIC),Vinicius Rodrigues Camargo,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento Web Back-End e APIs,80,Apto (Prático/Lab),25
+DOC01,VINICIUS CAMARGO (FIC),Vinicius Rodrigues Camargo,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Engenharia de Software e Métodos Ágeis,60,Apto (Teórico),25
+DOC01,VINICIUS CAMARGO (FIC),Vinicius Rodrigues Camargo,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Programação Orientada a Objetos,80,Plenamente Apto (Teórico + Prático),30
+DOC03,FABIANA (FIC),Fabiana otoboni molina,NÃO,SIM,Técnico em Qualidade,1º Semestre,Fundamentos da Gestão da Qualidade,80,Apto (Teórico),25
+DOC03,FABIANA (FIC),Fabiana otoboni molina,NÃO,SIM,Técnico em Qualidade,1º Semestre,Mapeamento e Padronização de Processos,80,Apto (Teórico),25
+DOC03,FABIANA (FIC),Fabiana otoboni molina,NÃO,SIM,Técnico em Qualidade,2º Semestre,Custos da Qualidade e Produtividade,60,Apto (Teórico),25
+DOC04,FERRARESE,Rodrigo Roberto Ferrareze,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Desenvolvimento Profissional e Comunicação,80,Plenamente Apto (Teórico + Prático),30
+DOC04,FERRARESE,Rodrigo Roberto Ferrareze,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Plenamente Apto (Teórico + Prático),30
+DOC04,FERRARESE,Rodrigo Roberto Ferrareze,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Comunicação Oral e Escrita,40,Plenamente Apto (Teórico + Prático),30
+DOC04,FERRARESE,Rodrigo Roberto Ferrareze,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Comunicação e Relações Interpessoais,40,Plenamente Apto (Teórico + Prático),30
+DOC04,FERRARESE,Rodrigo Roberto Ferrareze,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Prioridade / Preferência,30
+DOC04,FERRARESE,Rodrigo Roberto Ferrareze,SIM,SIM,Técnico em Qualidade,1º Semestre,Estatística Básica Aplicada ao Processo,60,Plenamente Apto (Teórico + Prático),30
+DOC04,FERRARESE,Rodrigo Roberto Ferrareze,SIM,SIM,Técnico em Qualidade,1º Semestre,Ferramentas da Qualidade e Análise de Falhas,80,Plenamente Apto (Teórico + Prático),30
+DOC04,FERRARESE,Rodrigo Roberto Ferrareze,SIM,SIM,Técnico em Qualidade,1º Semestre,Fundamentos da Gestão da Qualidade,80,Plenamente Apto (Teórico + Prático),30
+DOC04,FERRARESE,Rodrigo Roberto Ferrareze,SIM,SIM,Técnico em Qualidade,1º Semestre,Mapeamento e Padronização de Processos,80,Plenamente Apto (Teórico + Prático),30
+DOC04,FERRARESE,Rodrigo Roberto Ferrareze,SIM,SIM,Técnico em Qualidade,2º Semestre,Auditoria Interna e Sistemas de Gestão (ISO 9001),80,Plenamente Apto (Teórico + Prático),30
+DOC04,FERRARESE,Rodrigo Roberto Ferrareze,SIM,SIM,Técnico em Qualidade,2º Semestre,Controle Estatístico de Processo (CEP),80,Plenamente Apto (Teórico + Prático),30
+DOC04,FERRARESE,Rodrigo Roberto Ferrareze,SIM,SIM,Técnico em Qualidade,2º Semestre,Custos da Qualidade e Produtividade,60,Plenamente Apto (Teórico + Prático),30
+DOC05,ANDREY (MIR/FIC),Andrey Marque Mendonça,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Prioridade / Preferência,30
+DOC05,ANDREY (MIR/FIC),Andrey Marque Mendonça,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Análise e Modelagem de Sistemas,60,Apto (Prático/Lab),15
+DOC05,ANDREY (MIR/FIC),Andrey Marque Mendonça,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Banco de Dados Relacional,80,Plenamente Apto (Teórico + Prático),30
+DOC05,ANDREY (MIR/FIC),Andrey Marque Mendonça,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Fundamentos de Redes e Infraestrutura de TI,60,Apto (Prático/Lab),15
+DOC05,ANDREY (MIR/FIC),Andrey Marque Mendonça,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento de Aplicações Web (Front-End),80,Plenamente Apto (Teórico + Prático),30
+DOC05,ANDREY (MIR/FIC),Andrey Marque Mendonça,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento Web Back-End e APIs,80,Prioridade / Preferência,30
+DOC05,ANDREY (MIR/FIC),Andrey Marque Mendonça,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Engenharia de Software e Métodos Ágeis,60,Plenamente Apto (Teórico + Prático),30
+DOC05,ANDREY (MIR/FIC),Andrey Marque Mendonça,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Programação Orientada a Objetos,80,Plenamente Apto (Teórico + Prático),30
+DOC06,MARCELO CORRÊA (MIR/FIC),Marcelo Corrêa,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Plenamente Apto (Teórico + Prático),30
+DOC06,MARCELO CORRÊA (MIR/FIC),Marcelo Corrêa,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Análise e Modelagem de Sistemas,60,Plenamente Apto (Teórico + Prático),30
+DOC06,MARCELO CORRÊA (MIR/FIC),Marcelo Corrêa,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Banco de Dados Relacional,80,Plenamente Apto (Teórico + Prático),30
+DOC06,MARCELO CORRÊA (MIR/FIC),Marcelo Corrêa,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Fundamentos de Redes e Infraestrutura de TI,60,Plenamente Apto (Teórico + Prático),30
+DOC06,MARCELO CORRÊA (MIR/FIC),Marcelo Corrêa,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento de Aplicações Web (Front-End),80,Plenamente Apto (Teórico + Prático),30
+DOC06,MARCELO CORRÊA (MIR/FIC),Marcelo Corrêa,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento Web Back-End e APIs,80,Plenamente Apto (Teórico + Prático),30
+DOC06,MARCELO CORRÊA (MIR/FIC),Marcelo Corrêa,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Engenharia de Software e Métodos Ágeis,60,Plenamente Apto (Teórico + Prático),30
+DOC06,MARCELO CORRÊA (MIR/FIC),Marcelo Corrêa,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Programação Orientada a Objetos,80,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Desenvolvimento Profissional e Comunicação,80,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos da Eletroeletrônica,120,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos de Instalações Eletroeletrônicas,120,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Manutenção Elétrica Industrial,200,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Sistemas Automatizados de Manutenção,200,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Apto (Teórico),25
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Fundamentos de Eletricidade e Hidráulica Básica,80,Apto (Prático/Lab),25
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Sistemas Hidráulicos Avançados,160,Apto (Prático/Lab),25
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Desenho e Modelagem 2D/3D,80,Apto (Prático/Lab),15
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Eletricidade Básica e Circuitos Elétricos,120,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Fundamentos da Automação e Instrumentação,100,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Controladores Lógicos Programáveis (CLP),100,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Eletrônica Analógica e Digital Aplicada,120,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Redes Industriais de Comunicação,80,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Fundamentos de Redes e Infraestrutura de TI,60,Apto (Prático/Lab),15
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Fundamentos da Eletroeletrônica,120,Plenamente Apto (Teórico + Prático),30
+DOC07,TREVELIM,Joao Luiz Trevelim,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Implementação de Sistemas Eletroeletrônicos Prediais,120,Plenamente Apto (Teórico + Prático),30
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Prioridade / Preferência,30
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos da Eletroeletrônica,120,Prioridade / Preferência,30
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos de Instalações Eletroeletrônicas,120,Prioridade / Preferência,30
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Manutenção Elétrica Industrial,200,Prioridade / Preferência,30
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Sistemas Automatizados de Manutenção,200,Prioridade / Preferência,30
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Técnico em Automação Industrial,1º Semestre,Eletricidade Básica e Circuitos Elétricos,120,Prioridade / Preferência,30
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Técnico em Automação Industrial,1º Semestre,Fundamentos da Automação e Instrumentação,100,Apto (Prático/Lab),25
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Técnico em Automação Industrial,2º Semestre,Controladores Lógicos Programáveis (CLP),100,Prioridade / Preferência,30
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Técnico em Automação Industrial,2º Semestre,Eletrônica Analógica e Digital Aplicada,120,Apto (Prático/Lab),25
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Técnico em Automação Industrial,2º Semestre,Redes Industriais de Comunicação,80,Apto (Prático/Lab),25
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Apto (Prático/Lab),15
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Técnico em Eletroeletrônica,1º Semestre,Fundamentos da Eletroeletrônica,120,Prioridade / Preferência,30
+DOC08,ÉRICO,Érico Rodrigo de Abreu Carvalho,SIM,NÃO,Técnico em Eletroeletrônica,1º Semestre,Implementação de Sistemas Eletroeletrônicos Prediais,120,Prioridade / Preferência,30
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Metrologia Aplicada,80,Apto (Prático/Lab),15
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Processos Mecânicos Básicos,120,Apto (Prático/Lab),25
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Segurança e Meio Ambiente,80,Apto (Prático/Lab),15
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Eletricidade Aplicada a Veículos Pesados,120,Apto (Prático/Lab),25
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Motores de Combustão Interna ciclo Diesel,160,Apto (Prático/Lab),25
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Sistemas de Transmissão Mecânica,120,Apto (Prático/Lab),25
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Eletroeletrônica Automotiva Básica,80,Apto (Prático/Lab),25
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Fundamentos da Tecnologia Automotiva,80,Apto (Prático/Lab),15
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Metrologia e Ajustagem Mecânica,60,Apto (Prático/Lab),25
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,"Saúde, Segurança e Meio Ambiente no Setor Automotivo",80,Apto (Prático/Lab),15
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Gerenciamento Eletrônico de Motores,100,Apto (Prático/Lab),25
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Manutenção de Motores Ciclo Otto e Diesel,80,Apto (Prático/Lab),25
+DOC09,VALTER,Válter Aparecido Marin,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,"Sistemas de Freios, Suspensão e Direção",80,Apto (Prático/Lab),25
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Desenvolvimento Profissional e Comunicação,80,Apto (Prático/Lab),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Plenamente Apto (Teórico + Prático),30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos da Eletroeletrônica,120,Plenamente Apto (Teórico + Prático),30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos de Instalações Eletroeletrônicas,120,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Manutenção Elétrica Industrial,200,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Sistemas Automatizados de Manutenção,200,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Comunicação Oral e Escrita,40,Apto (Prático/Lab),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Matemática Aplicada à Usinagem,40,Plenamente Apto (Teórico + Prático),30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Plenamente Apto (Teórico + Prático),30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Tecnologia Mecânica,80,Plenamente Apto (Teórico + Prático),30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Usinagem Mecânica,160,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Usinagem (CAI),3º Termo,Usinagem em Fresadora,160,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Usinagem (CAI),3º Termo,Usinagem em Retificadora,120,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Usinagem (CAI),3º Termo,Fundamentos de CNC,120,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Comunicação e Relações Interpessoais,40,Plenamente Apto (Teórico + Prático),30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Fundamentos de Eletricidade e Hidráulica Básica,80,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Metrologia Aplicada,80,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Processos Mecânicos Básicos,120,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Segurança e Meio Ambiente,80,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Eletricidade Aplicada a Veículos Pesados,120,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Motores de Combustão Interna ciclo Diesel,160,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Sistemas de Transmissão Mecânica,120,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Eletroeletrônica Embarcada e Redes de Comunicação,120,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Manutenção de Implementos e Sistemas Especiais,120,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Sistemas Hidráulicos Avançados,160,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Desenho e Modelagem 2D/3D,80,Apto (Prático/Lab),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Eletricidade Básica e Circuitos Elétricos,120,Apto (Prático/Lab),25
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Fundamentos da Automação e Instrumentação,100,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Controladores Lógicos Programáveis (CLP),100,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Eletrônica Analógica e Digital Aplicada,120,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Redes Industriais de Comunicação,80,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Análise e Modelagem de Sistemas,60,Apto (Teórico),25
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Banco de Dados Relacional,80,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Fundamentos de Redes e Infraestrutura de TI,60,Apto (Teórico),25
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento de Aplicações Web (Front-End),80,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento Web Back-End e APIs,80,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Engenharia de Software e Métodos Ágeis,60,Apto (Teórico),25
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Programação Orientada a Objetos,80,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Apto (Teórico),25
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Fundamentos da Eletroeletrônica,120,Apto (Prático/Lab),25
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Implementação de Sistemas Eletroeletrônicos Prediais,120,Apto (Teórico),15
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Eletroeletrônica Automotiva Básica,80,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Fundamentos da Tecnologia Automotiva,80,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Metrologia e Ajustagem Mecânica,60,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,"Saúde, Segurança e Meio Ambiente no Setor Automotivo",80,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Gerenciamento Eletrônico de Motores,100,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Manutenção de Motores Ciclo Otto e Diesel,80,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,"Sistemas de Freios, Suspensão e Direção",80,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Transmissão Mecânica e Automatizada,40,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Qualidade,1º Semestre,Estatística Básica Aplicada ao Processo,60,Apto (Teórico),25
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Qualidade,1º Semestre,Ferramentas da Qualidade e Análise de Falhas,80,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Qualidade,1º Semestre,Fundamentos da Gestão da Qualidade,80,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Qualidade,1º Semestre,Mapeamento e Padronização de Processos,80,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Qualidade,2º Semestre,Auditoria Interna e Sistemas de Gestão (ISO 9001),80,Plenamente Apto (Teórico + Prático),30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Qualidade,2º Semestre,Controle Estatístico de Processo (CEP),80,Plenamente Apto (Teórico + Prático),30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Qualidade,2º Semestre,Custos da Qualidade e Produtividade,60,Prioridade / Preferência,30
+DOC10,CHARLES,Charles Vinicius de Carvalho Ferreira,SIM,SIM,Técnico em Qualidade,2º Semestre,Metrologia Dimensional e Análise de Sistemas de Medição,80,Prioridade / Preferência,30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Desenvolvimento Profissional e Comunicação,80,Apto (Prático/Lab),15
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos da Eletroeletrônica,120,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos de Instalações Eletroeletrônicas,120,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Manutenção Elétrica Industrial,200,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Sistemas Automatizados de Manutenção,200,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Comunicação Oral e Escrita,40,Apto (Prático/Lab),15
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Matemática Aplicada à Usinagem,40,Apto (Prático/Lab),15
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Comunicação e Relações Interpessoais,40,Apto (Prático/Lab),15
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Fundamentos de Eletricidade e Hidráulica Básica,80,Apto (Prático/Lab),25
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Eletroeletrônica Embarcada e Redes de Comunicação,120,Apto (Prático/Lab),25
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Eletricidade Básica e Circuitos Elétricos,120,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Fundamentos da Automação e Instrumentação,100,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Controladores Lógicos Programáveis (CLP),100,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Eletrônica Analógica e Digital Aplicada,120,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Redes Industriais de Comunicação,80,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Análise e Modelagem de Sistemas,60,Apto (Prático/Lab),15
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Banco de Dados Relacional,80,Apto (Prático/Lab),25
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Fundamentos de Redes e Infraestrutura de TI,60,Apto (Prático/Lab),15
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento de Aplicações Web (Front-End),80,Apto (Prático/Lab),25
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento Web Back-End e APIs,80,Apto (Prático/Lab),25
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Engenharia de Software e Métodos Ágeis,60,Apto (Prático/Lab),15
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Programação Orientada a Objetos,80,Apto (Prático/Lab),25
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Fundamentos da Eletroeletrônica,120,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Implementação de Sistemas Eletroeletrônicos Prediais,120,Plenamente Apto (Teórico + Prático),30
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Qualidade,1º Semestre,Estatística Básica Aplicada ao Processo,60,Apto (Prático/Lab),15
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Qualidade,1º Semestre,Ferramentas da Qualidade e Análise de Falhas,80,Apto (Prático/Lab),15
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Qualidade,1º Semestre,Fundamentos da Gestão da Qualidade,80,Apto (Prático/Lab),15
+DOC11,CEZAR,Cezar Bertelli,SIM,SIM,Técnico em Qualidade,1º Semestre,Mapeamento e Padronização de Processos,80,Apto (Prático/Lab),15
+DOC12,BARON,Carlos Eduardo Barom,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Plenamente Apto (Teórico + Prático),30
+DOC12,BARON,Carlos Eduardo Barom,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Tecnologia Mecânica,80,Plenamente Apto (Teórico + Prático),30
+DOC12,BARON,Carlos Eduardo Barom,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Usinagem Mecânica,160,Plenamente Apto (Teórico + Prático),30
+DOC12,BARON,Carlos Eduardo Barom,SIM,SIM,Mecânico de Usinagem (CAI),3º Termo,Usinagem em Fresadora,160,Plenamente Apto (Teórico + Prático),30
+DOC12,BARON,Carlos Eduardo Barom,SIM,SIM,Mecânico de Usinagem (CAI),3º Termo,Usinagem em Retificadora,120,Plenamente Apto (Teórico + Prático),30
+DOC12,BARON,Carlos Eduardo Barom,SIM,SIM,Mecânico de Usinagem (CAI),3º Termo,Fundamentos de CNC,120,Plenamente Apto (Teórico + Prático),30
+DOC12,BARON,Carlos Eduardo Barom,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Metrologia Aplicada,80,Plenamente Apto (Teórico + Prático),30
+DOC12,BARON,Carlos Eduardo Barom,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Metrologia e Ajustagem Mecânica,60,Plenamente Apto (Teórico + Prático),30
+DOC12,BARON,Carlos Eduardo Barom,SIM,SIM,Técnico em Qualidade,2º Semestre,Metrologia Dimensional e Análise de Sistemas de Medição,80,Plenamente Apto (Teórico + Prático),30
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Apto (Teórico),25
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Matemática Aplicada à Usinagem,40,Plenamente Apto (Teórico + Prático),30
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Plenamente Apto (Teórico + Prático),30
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Tecnologia Mecânica,80,Apto (Teórico),15
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Comunicação e Relações Interpessoais,40,Apto (Teórico),25
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Metrologia Aplicada,80,Apto (Teórico),25
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Segurança e Meio Ambiente,80,Apto (Teórico),25
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Desenho e Modelagem 2D/3D,80,Apto (Teórico),25
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Plenamente Apto (Teórico + Prático),30
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Metrologia e Ajustagem Mecânica,60,Apto (Teórico),15
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Técnico em Qualidade,1º Semestre,Estatística Básica Aplicada ao Processo,60,Apto (Prático/Lab),15
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Técnico em Qualidade,1º Semestre,Ferramentas da Qualidade e Análise de Falhas,80,Apto (Prático/Lab),15
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Técnico em Qualidade,1º Semestre,Fundamentos da Gestão da Qualidade,80,Apto (Prático/Lab),15
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Técnico em Qualidade,1º Semestre,Mapeamento e Padronização de Processos,80,Apto (Prático/Lab),15
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Técnico em Qualidade,2º Semestre,Auditoria Interna e Sistemas de Gestão (ISO 9001),80,Apto (Teórico),25
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Técnico em Qualidade,2º Semestre,Controle Estatístico de Processo (CEP),80,Apto (Teórico),25
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Técnico em Qualidade,2º Semestre,Custos da Qualidade e Produtividade,60,Apto (Prático/Lab),15
+DOC13,JONATHAS,Jonathas Arthur Quintiliano,SIM,SIM,Técnico em Qualidade,2º Semestre,Metrologia Dimensional e Análise de Sistemas de Medição,80,Apto (Teórico),15
+DOC14,RONALDO (FIC),Ronaldo Gon Bordin,NÃO,SIM,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Plenamente Apto (Teórico + Prático),30
+DOC14,RONALDO (FIC),Ronaldo Gon Bordin,NÃO,SIM,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Tecnologia Mecânica,80,Plenamente Apto (Teórico + Prático),30
+DOC14,RONALDO (FIC),Ronaldo Gon Bordin,NÃO,SIM,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Usinagem Mecânica,160,Plenamente Apto (Teórico + Prático),30
+DOC14,RONALDO (FIC),Ronaldo Gon Bordin,NÃO,SIM,Mecânico de Usinagem (CAI),3º Termo,Usinagem em Fresadora,160,Plenamente Apto (Teórico + Prático),30
+DOC14,RONALDO (FIC),Ronaldo Gon Bordin,NÃO,SIM,Técnico em Qualidade,2º Semestre,Metrologia Dimensional e Análise de Sistemas de Medição,80,Apto (Prático/Lab),25
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Desenvolvimento Profissional e Comunicação,80,Plenamente Apto (Teórico + Prático),30
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Plenamente Apto (Teórico + Prático),30
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Comunicação e Relações Interpessoais,40,Plenamente Apto (Teórico + Prático),30
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Plenamente Apto (Teórico + Prático),30
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Análise e Modelagem de Sistemas,60,Plenamente Apto (Teórico + Prático),30
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Banco de Dados Relacional,80,Plenamente Apto (Teórico + Prático),30
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Fundamentos de Redes e Infraestrutura de TI,60,Plenamente Apto (Teórico + Prático),30
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento de Aplicações Web (Front-End),80,Plenamente Apto (Teórico + Prático),30
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento Web Back-End e APIs,80,Plenamente Apto (Teórico + Prático),30
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Engenharia de Software e Métodos Ágeis,60,Plenamente Apto (Teórico + Prático),30
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Programação Orientada a Objetos,80,Plenamente Apto (Teórico + Prático),30
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Plenamente Apto (Teórico + Prático),30
+DOC15,FABIANO (AND/FIC),Fabiano de Souza Marinho,NÃO,SIM,Técnico em Qualidade,1º Semestre,Estatística Básica Aplicada ao Processo,60,Apto (Teórico),25
+DOC16,LUCIANO (GUA/FIC),Luciano de Souza Andrade,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Prioridade / Preferência,30
+DOC16,LUCIANO (GUA/FIC),Luciano de Souza Andrade,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Análise e Modelagem de Sistemas,60,Plenamente Apto (Teórico + Prático),30
+DOC16,LUCIANO (GUA/FIC),Luciano de Souza Andrade,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Banco de Dados Relacional,80,Prioridade / Preferência,30
+DOC16,LUCIANO (GUA/FIC),Luciano de Souza Andrade,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Fundamentos de Redes e Infraestrutura de TI,60,Apto (Teórico),25
+DOC16,LUCIANO (GUA/FIC),Luciano de Souza Andrade,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento de Aplicações Web (Front-End),80,Apto (Prático/Lab),25
+DOC16,LUCIANO (GUA/FIC),Luciano de Souza Andrade,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento Web Back-End e APIs,80,Prioridade / Preferência,30
+DOC16,LUCIANO (GUA/FIC),Luciano de Souza Andrade,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Engenharia de Software e Métodos Ágeis,60,Apto (Prático/Lab),15
+DOC16,LUCIANO (GUA/FIC),Luciano de Souza Andrade,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Programação Orientada a Objetos,80,Plenamente Apto (Teórico + Prático),30
+DOC17,LUCAS (GUA/FIC),Lucas Silva Souto,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Prioridade / Preferência,30
+DOC17,LUCAS (GUA/FIC),Lucas Silva Souto,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Análise e Modelagem de Sistemas,60,Plenamente Apto (Teórico + Prático),30
+DOC17,LUCAS (GUA/FIC),Lucas Silva Souto,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Banco de Dados Relacional,80,Plenamente Apto (Teórico + Prático),30
+DOC17,LUCAS (GUA/FIC),Lucas Silva Souto,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento de Aplicações Web (Front-End),80,Prioridade / Preferência,30
+DOC17,LUCAS (GUA/FIC),Lucas Silva Souto,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento Web Back-End e APIs,80,Prioridade / Preferência,30
+DOC17,LUCAS (GUA/FIC),Lucas Silva Souto,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Engenharia de Software e Métodos Ágeis,60,Apto (Prático/Lab),15
+DOC17,LUCAS (GUA/FIC),Lucas Silva Souto,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Programação Orientada a Objetos,80,Plenamente Apto (Teórico + Prático),30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Plenamente Apto (Teórico + Prático),30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos da Eletroeletrônica,120,Apto (Prático/Lab),25
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos de Instalações Eletroeletrônicas,120,Apto (Teórico),15
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Manutenção Elétrica Industrial,200,Apto (Teórico),15
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Sistemas Automatizados de Manutenção,200,Apto (Teórico),15
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Matemática Aplicada à Usinagem,40,Apto (Teórico),25
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Plenamente Apto (Teórico + Prático),30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Tecnologia Mecânica,80,Plenamente Apto (Teórico + Prático),30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Usinagem Mecânica,160,Apto (Prático/Lab),25
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Fundamentos de Eletricidade e Hidráulica Básica,80,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Metrologia Aplicada,80,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Processos Mecânicos Básicos,120,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Segurança e Meio Ambiente,80,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Eletricidade Aplicada a Veículos Pesados,120,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Motores de Combustão Interna ciclo Diesel,160,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Sistemas de Transmissão Mecânica,120,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Eletroeletrônica Embarcada e Redes de Comunicação,120,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Manutenção de Implementos e Sistemas Especiais,120,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Sistemas Hidráulicos Avançados,160,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Desenho e Modelagem 2D/3D,80,Apto (Teórico),25
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Eletricidade Básica e Circuitos Elétricos,120,Apto (Teórico),15
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Fundamentos da Eletroeletrônica,120,Apto (Teórico),15
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Eletroeletrônica Automotiva Básica,80,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Fundamentos da Tecnologia Automotiva,80,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Metrologia e Ajustagem Mecânica,60,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,"Saúde, Segurança e Meio Ambiente no Setor Automotivo",80,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Gerenciamento Eletrônico de Motores,100,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Manutenção de Motores Ciclo Otto e Diesel,80,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,"Sistemas de Freios, Suspensão e Direção",80,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Transmissão Mecânica e Automatizada,40,Prioridade / Preferência,30
+DOC18,FELIPE,Felipe Costa do Amaral,SIM,SIM,Técnico em Qualidade,2º Semestre,Metrologia Dimensional e Análise de Sistemas de Medição,80,Apto (Prático/Lab),25
+DOC19,JAQUELINE (FIC),Jaqueline Carvalho Fernandes Marques,NÃO,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Desenvolvimento Profissional e Comunicação,80,Apto (Teórico),25
+DOC19,JAQUELINE (FIC),Jaqueline Carvalho Fernandes Marques,NÃO,SIM,Mecânico de Usinagem (CAI),1º Termo,Comunicação Oral e Escrita,40,Apto (Teórico),25
+DOC19,JAQUELINE (FIC),Jaqueline Carvalho Fernandes Marques,NÃO,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Comunicação e Relações Interpessoais,40,Apto (Teórico),25
+DOC19,JAQUELINE (FIC),Jaqueline Carvalho Fernandes Marques,NÃO,SIM,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Apto (Teórico),25
+DOC19,JAQUELINE (FIC),Jaqueline Carvalho Fernandes Marques,NÃO,SIM,Técnico em Qualidade,1º Semestre,Estatística Básica Aplicada ao Processo,60,Apto (Teórico),25
+DOC19,JAQUELINE (FIC),Jaqueline Carvalho Fernandes Marques,NÃO,SIM,Técnico em Qualidade,1º Semestre,Ferramentas da Qualidade e Análise de Falhas,80,Apto (Teórico),25
+DOC19,JAQUELINE (FIC),Jaqueline Carvalho Fernandes Marques,NÃO,SIM,Técnico em Qualidade,1º Semestre,Fundamentos da Gestão da Qualidade,80,Apto (Teórico),25
+DOC19,JAQUELINE (FIC),Jaqueline Carvalho Fernandes Marques,NÃO,SIM,Técnico em Qualidade,1º Semestre,Mapeamento e Padronização de Processos,80,Apto (Teórico),25
+DOC19,JAQUELINE (FIC),Jaqueline Carvalho Fernandes Marques,NÃO,SIM,Técnico em Qualidade,2º Semestre,Auditoria Interna e Sistemas de Gestão (ISO 9001),80,Apto (Teórico),25
+DOC19,JAQUELINE (FIC),Jaqueline Carvalho Fernandes Marques,NÃO,SIM,Técnico em Qualidade,2º Semestre,Controle Estatístico de Processo (CEP),80,Apto (Teórico),25
+DOC19,JAQUELINE (FIC),Jaqueline Carvalho Fernandes Marques,NÃO,SIM,Técnico em Qualidade,2º Semestre,Custos da Qualidade e Produtividade,60,Apto (Teórico),25
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Prioridade / Preferência,30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos da Eletroeletrônica,120,Plenamente Apto (Teórico + Prático),30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos de Instalações Eletroeletrônicas,120,Plenamente Apto (Teórico + Prático),30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Manutenção Elétrica Industrial,200,Plenamente Apto (Teórico + Prático),30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Sistemas Automatizados de Manutenção,200,Plenamente Apto (Teórico + Prático),30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Desenho e Modelagem 2D/3D,80,Plenamente Apto (Teórico + Prático),30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Eletricidade Básica e Circuitos Elétricos,120,Plenamente Apto (Teórico + Prático),30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Fundamentos da Automação e Instrumentação,100,Plenamente Apto (Teórico + Prático),30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Controladores Lógicos Programáveis (CLP),100,Prioridade / Preferência,30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Eletrônica Analógica e Digital Aplicada,120,Plenamente Apto (Teórico + Prático),30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Redes Industriais de Comunicação,80,Plenamente Apto (Teórico + Prático),30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Plenamente Apto (Teórico + Prático),30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Fundamentos da Eletroeletrônica,120,Plenamente Apto (Teórico + Prático),30
+DOC20,JOSIAS,Josias Bartolomeu Costa Ribeiro,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Implementação de Sistemas Eletroeletrônicos Prediais,120,Plenamente Apto (Teórico + Prático),30
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Plenamente Apto (Teórico + Prático),30
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos da Eletroeletrônica,120,Apto (Teórico),15
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Eletrônica Analógica e Digital Aplicada,120,Plenamente Apto (Teórico + Prático),30
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Redes Industriais de Comunicação,80,Apto (Teórico),15
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Prioridade / Preferência,30
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Análise e Modelagem de Sistemas,60,Prioridade / Preferência,30
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Banco de Dados Relacional,80,Prioridade / Preferência,30
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Fundamentos de Redes e Infraestrutura de TI,60,Prioridade / Preferência,30
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento de Aplicações Web (Front-End),80,Prioridade / Preferência,30
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento Web Back-End e APIs,80,Prioridade / Preferência,30
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Engenharia de Software e Métodos Ágeis,60,Prioridade / Preferência,30
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Programação Orientada a Objetos,80,Prioridade / Preferência,30
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Plenamente Apto (Teórico + Prático),30
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Qualidade,1º Semestre,Estatística Básica Aplicada ao Processo,60,Apto (Teórico),25
+DOC21,HEITOR,Heitor Ilario Zucão,SIM,SIM,Técnico em Qualidade,1º Semestre,Mapeamento e Padronização de Processos,80,Apto (Teórico),25
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Plenamente Apto (Teórico + Prático),30
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos da Eletroeletrônica,120,Prioridade / Preferência,30
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos de Instalações Eletroeletrônicas,120,Prioridade / Preferência,30
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Manutenção Elétrica Industrial,200,Prioridade / Preferência,30
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Sistemas Automatizados de Manutenção,200,Plenamente Apto (Teórico + Prático),30
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Fundamentos de Eletricidade e Hidráulica Básica,80,Apto (Prático/Lab),25
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Eletroeletrônica Embarcada e Redes de Comunicação,120,Apto (Prático/Lab),25
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Desenho e Modelagem 2D/3D,80,Apto (Prático/Lab),15
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Eletricidade Básica e Circuitos Elétricos,120,Prioridade / Preferência,30
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Fundamentos da Automação e Instrumentação,100,Apto (Prático/Lab),25
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Controladores Lógicos Programáveis (CLP),100,Plenamente Apto (Teórico + Prático),30
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Eletrônica Analógica e Digital Aplicada,120,Prioridade / Preferência,30
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Redes Industriais de Comunicação,80,Apto (Prático/Lab),25
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Apto (Prático/Lab),25
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Banco de Dados Relacional,80,Apto (Prático/Lab),25
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Desenvolvimento de Sistemas,1º Semestre,Fundamentos de Redes e Infraestrutura de TI,60,Apto (Prático/Lab),15
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento de Aplicações Web (Front-End),80,Apto (Prático/Lab),25
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Desenvolvimento de Sistemas,2º Semestre,Programação Orientada a Objetos,80,Apto (Prático/Lab),25
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Apto (Teórico),25
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Fundamentos da Eletroeletrônica,120,Plenamente Apto (Teórico + Prático),30
+DOC22,CLEBER,Cleber Rodrigo Torres,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Implementação de Sistemas Eletroeletrônicos Prediais,120,Plenamente Apto (Teórico + Prático),30
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Desenvolvimento Profissional e Comunicação,80,Apto (Teórico),25
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Comunicação Oral e Escrita,40,Apto (Teórico),25
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Matemática Aplicada à Usinagem,40,Apto (Teórico),25
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Comunicação e Relações Interpessoais,40,Apto (Teórico),25
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Segurança e Meio Ambiente,80,Apto (Teórico),25
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,"Saúde, Segurança e Meio Ambiente no Setor Automotivo",80,Apto (Teórico),25
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Técnico em Qualidade,1º Semestre,Estatística Básica Aplicada ao Processo,60,Apto (Teórico),25
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Técnico em Qualidade,1º Semestre,Ferramentas da Qualidade e Análise de Falhas,80,Apto (Teórico),25
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Técnico em Qualidade,1º Semestre,Fundamentos da Gestão da Qualidade,80,Apto (Teórico),25
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Técnico em Qualidade,1º Semestre,Mapeamento e Padronização de Processos,80,Apto (Teórico),25
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Técnico em Qualidade,2º Semestre,Auditoria Interna e Sistemas de Gestão (ISO 9001),80,Apto (Teórico),25
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Técnico em Qualidade,2º Semestre,Controle Estatístico de Processo (CEP),80,Apto (Teórico),25
+DOC23,SILVIO,Silvio Sergio Barbosa,SIM,SIM,Técnico em Qualidade,2º Semestre,Custos da Qualidade e Produtividade,60,Apto (Teórico),25
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Apto (Prático/Lab),15
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos da Eletroeletrônica,120,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos de Instalações Eletroeletrônicas,120,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Manutenção Elétrica Industrial,200,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Sistemas Automatizados de Manutenção,200,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Tecnologia Mecânica,80,Apto (Teórico),15
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Usinagem Mecânica,160,Apto (Teórico),15
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Mecânico de Usinagem (CAI),3º Termo,Usinagem em Fresadora,160,Apto (Prático/Lab),25
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Mecânico de Usinagem (CAI),3º Termo,Usinagem em Retificadora,120,Apto (Teórico),15
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Mecânico de Usinagem (CAI),3º Termo,Fundamentos de CNC,120,Apto (Teórico),15
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Fundamentos de Eletricidade e Hidráulica Básica,80,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Metrologia Aplicada,80,Apto (Teórico),25
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Processos Mecânicos Básicos,120,Apto (Prático/Lab),25
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Sistemas Hidráulicos Avançados,160,Plenamente Apto (Teórico + Prático),30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Técnico em Automação Industrial,1º Semestre,Desenho e Modelagem 2D/3D,80,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Técnico em Automação Industrial,1º Semestre,Eletricidade Básica e Circuitos Elétricos,120,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Técnico em Automação Industrial,1º Semestre,Fundamentos da Automação e Instrumentação,100,Plenamente Apto (Teórico + Prático),30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Técnico em Automação Industrial,2º Semestre,Controladores Lógicos Programáveis (CLP),100,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Técnico em Automação Industrial,2º Semestre,Eletrônica Analógica e Digital Aplicada,120,Apto (Teórico),15
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Técnico em Automação Industrial,2º Semestre,Redes Industriais de Comunicação,80,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Análise e Modelagem de Sistemas,60,Apto (Teórico),25
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Técnico em Eletroeletrônica,1º Semestre,Fundamentos da Eletroeletrônica,120,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Técnico em Eletroeletrônica,1º Semestre,Implementação de Sistemas Eletroeletrônicos Prediais,120,Prioridade / Preferência,30
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Técnico em Manutenção Automotiva,1º Semestre,Eletroeletrônica Automotiva Básica,80,Apto (Teórico),15
+DOC24,HÁLISON,Hálison Moreira Dorigan,SIM,NÃO,Técnico em Manutenção Automotiva,1º Semestre,Metrologia e Ajustagem Mecânica,60,Apto (Teórico),15
+DOC25,VINÍCIUS,Vinicius Castro Santos Giraldelli,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Plenamente Apto (Teórico + Prático),30
+DOC25,VINÍCIUS,Vinicius Castro Santos Giraldelli,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Tecnologia Mecânica,80,Prioridade / Preferência,30
+DOC25,VINÍCIUS,Vinicius Castro Santos Giraldelli,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Usinagem Mecânica,160,Prioridade / Preferência,30
+DOC25,VINÍCIUS,Vinicius Castro Santos Giraldelli,SIM,NÃO,Mecânico de Usinagem (CAI),3º Termo,Usinagem em Fresadora,160,Prioridade / Preferência,30
+DOC25,VINÍCIUS,Vinicius Castro Santos Giraldelli,SIM,NÃO,Mecânico de Usinagem (CAI),3º Termo,Usinagem em Retificadora,120,Prioridade / Preferência,30
+DOC25,VINÍCIUS,Vinicius Castro Santos Giraldelli,SIM,NÃO,Mecânico de Usinagem (CAI),3º Termo,Fundamentos de CNC,120,Prioridade / Preferência,30
+DOC25,VINÍCIUS,Vinicius Castro Santos Giraldelli,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Metrologia Aplicada,80,Prioridade / Preferência,30
+DOC25,VINÍCIUS,Vinicius Castro Santos Giraldelli,SIM,NÃO,Técnico em Automação Industrial,1º Semestre,Desenho e Modelagem 2D/3D,80,Prioridade / Preferência,30
+DOC25,VINÍCIUS,Vinicius Castro Santos Giraldelli,SIM,NÃO,Técnico em Manutenção Automotiva,1º Semestre,Metrologia e Ajustagem Mecânica,60,Prioridade / Preferência,30
+DOC25,VINÍCIUS,Vinicius Castro Santos Giraldelli,SIM,NÃO,Técnico em Qualidade,2º Semestre,Metrologia Dimensional e Análise de Sistemas de Medição,80,Prioridade / Preferência,30
+DOC26,ANDRÉ DONATONI (FIC),André Luís Donatoni,NÃO,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos da Eletroeletrônica,120,Apto (Prático/Lab),25
+DOC26,ANDRÉ DONATONI (FIC),André Luís Donatoni,NÃO,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos de Instalações Eletroeletrônicas,120,Apto (Prático/Lab),25
+DOC26,ANDRÉ DONATONI (FIC),André Luís Donatoni,NÃO,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Manutenção Elétrica Industrial,200,Apto (Prático/Lab),25
+DOC26,ANDRÉ DONATONI (FIC),André Luís Donatoni,NÃO,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Sistemas Automatizados de Manutenção,200,Apto (Prático/Lab),25
+DOC26,ANDRÉ DONATONI (FIC),André Luís Donatoni,NÃO,SIM,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Apto (Teórico),25
+DOC26,ANDRÉ DONATONI (FIC),André Luís Donatoni,NÃO,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Fundamentos de Eletricidade e Hidráulica Básica,80,Apto (Prático/Lab),25
+DOC26,ANDRÉ DONATONI (FIC),André Luís Donatoni,NÃO,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Segurança e Meio Ambiente,80,Apto (Teórico),25
+DOC26,ANDRÉ DONATONI (FIC),André Luís Donatoni,NÃO,SIM,Técnico em Automação Industrial,1º Semestre,Eletricidade Básica e Circuitos Elétricos,120,Apto (Prático/Lab),25
+DOC26,ANDRÉ DONATONI (FIC),André Luís Donatoni,NÃO,SIM,Técnico em Automação Industrial,2º Semestre,Eletrônica Analógica e Digital Aplicada,120,Apto (Teórico),15
+DOC26,ANDRÉ DONATONI (FIC),André Luís Donatoni,NÃO,SIM,Técnico em Eletroeletrônica,1º Semestre,Fundamentos da Eletroeletrônica,120,Apto (Prático/Lab),25
+DOC26,ANDRÉ DONATONI (FIC),André Luís Donatoni,NÃO,SIM,Técnico em Eletroeletrônica,1º Semestre,Implementação de Sistemas Eletroeletrônicos Prediais,120,Apto (Prático/Lab),25
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Apto (Prático/Lab),15
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos da Eletroeletrônica,120,Apto (Teórico),15
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Apto (Teórico),25
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Fundamentos de Eletricidade e Hidráulica Básica,80,Prioridade / Preferência,30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Metrologia Aplicada,80,Plenamente Apto (Teórico + Prático),30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Processos Mecânicos Básicos,120,Plenamente Apto (Teórico + Prático),30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Segurança e Meio Ambiente,80,Plenamente Apto (Teórico + Prático),30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Eletricidade Aplicada a Veículos Pesados,120,Prioridade / Preferência,30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Motores de Combustão Interna ciclo Diesel,160,Apto (Prático/Lab),25
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Sistemas de Transmissão Mecânica,120,Apto (Prático/Lab),25
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Eletroeletrônica Embarcada e Redes de Comunicação,120,Prioridade / Preferência,30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Manutenção de Implementos e Sistemas Especiais,120,Apto (Teórico),15
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Sistemas Hidráulicos Avançados,160,Apto (Teórico),15
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Desenho e Modelagem 2D/3D,80,Apto (Teórico),25
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Eletricidade Básica e Circuitos Elétricos,120,Prioridade / Preferência,30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Fundamentos da Eletroeletrônica,120,Apto (Teórico),15
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Eletroeletrônica Automotiva Básica,80,Prioridade / Preferência,30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Fundamentos da Tecnologia Automotiva,80,Plenamente Apto (Teórico + Prático),30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Metrologia e Ajustagem Mecânica,60,Plenamente Apto (Teórico + Prático),30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,"Saúde, Segurança e Meio Ambiente no Setor Automotivo",80,Plenamente Apto (Teórico + Prático),30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Gerenciamento Eletrônico de Motores,100,Prioridade / Preferência,30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Manutenção de Motores Ciclo Otto e Diesel,80,Apto (Prático/Lab),25
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,"Sistemas de Freios, Suspensão e Direção",80,Plenamente Apto (Teórico + Prático),30
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Transmissão Mecânica e Automatizada,40,Apto (Prático/Lab),25
+DOC27,WILLIAN,Willian Rodrigo Garcia De Jesus,SIM,SIM,Técnico em Qualidade,2º Semestre,Metrologia Dimensional e Análise de Sistemas de Medição,80,Apto (Prático/Lab),25
+DOC28,ANGELO (MIR/FIC),Angelo Heleno Stevanelli,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Prioridade / Preferência,30
+DOC28,ANGELO (MIR/FIC),Angelo Heleno Stevanelli,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Análise e Modelagem de Sistemas,60,Prioridade / Preferência,30
+DOC28,ANGELO (MIR/FIC),Angelo Heleno Stevanelli,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Banco de Dados Relacional,80,Prioridade / Preferência,30
+DOC28,ANGELO (MIR/FIC),Angelo Heleno Stevanelli,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento de Aplicações Web (Front-End),80,Plenamente Apto (Teórico + Prático),30
+DOC28,ANGELO (MIR/FIC),Angelo Heleno Stevanelli,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento Web Back-End e APIs,80,Prioridade / Preferência,30
+DOC28,ANGELO (MIR/FIC),Angelo Heleno Stevanelli,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Engenharia de Software e Métodos Ágeis,60,Plenamente Apto (Teórico + Prático),30
+DOC28,ANGELO (MIR/FIC),Angelo Heleno Stevanelli,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Programação Orientada a Objetos,80,Plenamente Apto (Teórico + Prático),30
+DOC29,RAPHAEL (AND/FIC),Raphael José Anhussi da Cruz,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Algoritmos e Lógica de Programação,100,Plenamente Apto (Teórico + Prático),30
+DOC29,RAPHAEL (AND/FIC),Raphael José Anhussi da Cruz,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Análise e Modelagem de Sistemas,60,Plenamente Apto (Teórico + Prático),30
+DOC29,RAPHAEL (AND/FIC),Raphael José Anhussi da Cruz,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Banco de Dados Relacional,80,Plenamente Apto (Teórico + Prático),30
+DOC29,RAPHAEL (AND/FIC),Raphael José Anhussi da Cruz,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,1º Semestre,Fundamentos de Redes e Infraestrutura de TI,60,Apto (Teórico),25
+DOC29,RAPHAEL (AND/FIC),Raphael José Anhussi da Cruz,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento de Aplicações Web (Front-End),80,Plenamente Apto (Teórico + Prático),30
+DOC29,RAPHAEL (AND/FIC),Raphael José Anhussi da Cruz,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Desenvolvimento Web Back-End e APIs,80,Plenamente Apto (Teórico + Prático),30
+DOC29,RAPHAEL (AND/FIC),Raphael José Anhussi da Cruz,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Engenharia de Software e Métodos Ágeis,60,Plenamente Apto (Teórico + Prático),30
+DOC29,RAPHAEL (AND/FIC),Raphael José Anhussi da Cruz,NÃO,NÃO,Técnico em Desenvolvimento de Sistemas,2º Semestre,Programação Orientada a Objetos,80,Plenamente Apto (Teórico + Prático),30
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Comunicação Oral e Escrita,40,Apto (Teórico),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Apto (Teórico),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Comunicação e Relações Interpessoais,40,Apto (Teórico),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Fundamentos de Eletricidade e Hidráulica Básica,80,Apto (Prático/Lab),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Metrologia Aplicada,80,Prioridade / Preferência,30
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Processos Mecânicos Básicos,120,Prioridade / Preferência,30
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Segurança e Meio Ambiente,80,Prioridade / Preferência,30
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Eletricidade Aplicada a Veículos Pesados,120,Apto (Teórico),15
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Motores de Combustão Interna ciclo Diesel,160,Apto (Prático/Lab),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Sistemas de Transmissão Mecânica,120,Apto (Prático/Lab),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Eletroeletrônica Embarcada e Redes de Comunicação,120,Apto (Teórico),15
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Manutenção de Implementos e Sistemas Especiais,120,Apto (Teórico),15
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Sistemas Hidráulicos Avançados,160,Apto (Prático/Lab),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Manutenção Automotiva,1º Semestre,Eletroeletrônica Automotiva Básica,80,Apto (Prático/Lab),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Manutenção Automotiva,1º Semestre,Fundamentos da Tecnologia Automotiva,80,Prioridade / Preferência,30
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Manutenção Automotiva,1º Semestre,Metrologia e Ajustagem Mecânica,60,Prioridade / Preferência,30
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Manutenção Automotiva,1º Semestre,"Saúde, Segurança e Meio Ambiente no Setor Automotivo",80,Prioridade / Preferência,30
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Manutenção Automotiva,2º Semestre,Gerenciamento Eletrônico de Motores,100,Plenamente Apto (Teórico + Prático),30
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Manutenção Automotiva,2º Semestre,Manutenção de Motores Ciclo Otto e Diesel,80,Plenamente Apto (Teórico + Prático),30
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Manutenção Automotiva,2º Semestre,"Sistemas de Freios, Suspensão e Direção",80,Plenamente Apto (Teórico + Prático),30
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Manutenção Automotiva,2º Semestre,Transmissão Mecânica e Automatizada,40,Apto (Teórico),15
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Qualidade,1º Semestre,Estatística Básica Aplicada ao Processo,60,Apto (Teórico),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Qualidade,1º Semestre,Ferramentas da Qualidade e Análise de Falhas,80,Apto (Teórico),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Qualidade,1º Semestre,Fundamentos da Gestão da Qualidade,80,Apto (Teórico),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Qualidade,1º Semestre,Mapeamento e Padronização de Processos,80,Apto (Teórico),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Qualidade,2º Semestre,Auditoria Interna e Sistemas de Gestão (ISO 9001),80,Apto (Teórico),25
+DOC30,EMERSON,Emerson Santana Martins,SIM,NÃO,Técnico em Qualidade,2º Semestre,Metrologia Dimensional e Análise de Sistemas de Medição,80,Apto (Teórico),15
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Desenvolvimento Profissional e Comunicação,80,Apto (Prático/Lab),15
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Letramento Digital,80,Plenamente Apto (Teórico + Prático),30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Fundamentos da Eletroeletrônica,120,Plenamente Apto (Teórico + Prático),30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Manutenção Elétrica Industrial,200,Apto (Teórico),15
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Eletricista de Manutenção Eletroeletrônica (CAI),3º Termo,Sistemas Automatizados de Manutenção,200,Apto (Prático/Lab),25
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Comunicação Oral e Escrita,40,Apto (Prático/Lab),15
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Matemática Aplicada à Usinagem,40,Apto (Prático/Lab),15
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Apto (Teórico),25
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Tecnologia Mecânica,80,Apto (Teórico),15
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Comunicação e Relações Interpessoais,40,Plenamente Apto (Teórico + Prático),30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Fundamentos de Eletricidade e Hidráulica Básica,80,Plenamente Apto (Teórico + Prático),30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Metrologia Aplicada,80,Prioridade / Preferência,30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Processos Mecânicos Básicos,120,Prioridade / Preferência,30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Segurança e Meio Ambiente,80,Prioridade / Preferência,30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Eletricidade Aplicada a Veículos Pesados,120,Prioridade / Preferência,30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Motores de Combustão Interna ciclo Diesel,160,Prioridade / Preferência,30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),2º Termo,Sistemas de Transmissão Mecânica,120,Prioridade / Preferência,30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Eletroeletrônica Embarcada e Redes de Comunicação,120,Prioridade / Preferência,30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Manutenção de Implementos e Sistemas Especiais,120,Plenamente Apto (Teórico + Prático),30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),3º Termo,Sistemas Hidráulicos Avançados,160,Plenamente Apto (Teórico + Prático),30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Eletricidade Básica e Circuitos Elétricos,120,Apto (Prático/Lab),25
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Automação Industrial,1º Semestre,Fundamentos da Automação e Instrumentação,100,Apto (Teórico),15
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Controladores Lógicos Programáveis (CLP),100,Apto (Teórico),15
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Eletrônica Analógica e Digital Aplicada,120,Apto (Teórico),15
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Automação Industrial,2º Semestre,Redes Industriais de Comunicação,80,Apto (Teórico),15
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Apto (Prático/Lab),15
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Eletroeletrônica,1º Semestre,Fundamentos da Eletroeletrônica,120,Apto (Prático/Lab),25
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Eletroeletrônica Automotiva Básica,80,Prioridade / Preferência,30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Fundamentos da Tecnologia Automotiva,80,Prioridade / Preferência,30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,Metrologia e Ajustagem Mecânica,60,Plenamente Apto (Teórico + Prático),30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Manutenção Automotiva,1º Semestre,"Saúde, Segurança e Meio Ambiente no Setor Automotivo",80,Plenamente Apto (Teórico + Prático),30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Gerenciamento Eletrônico de Motores,100,Prioridade / Preferência,30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Manutenção de Motores Ciclo Otto e Diesel,80,Prioridade / Preferência,30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,"Sistemas de Freios, Suspensão e Direção",80,Prioridade / Preferência,30
+DOC31,EDUARDO,Eduardo Silva Monteiro,SIM,SIM,Técnico em Manutenção Automotiva,2º Semestre,Transmissão Mecânica e Automatizada,40,Prioridade / Preferência,30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Desenvolvimento Profissional e Comunicação,80,Prioridade / Preferência,30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Comunicação e Relações Interpessoais,40,Prioridade / Preferência,30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Segurança e Meio Ambiente,80,Prioridade / Preferência,30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Técnico em Eletroeletrônica,1º Semestre,Ferramentas Digitais para o Mercado de Trabalho,60,Plenamente Apto (Teórico + Prático),30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Técnico em Manutenção Automotiva,1º Semestre,"Saúde, Segurança e Meio Ambiente no Setor Automotivo",80,Prioridade / Preferência,30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Técnico em Qualidade,1º Semestre,Estatística Básica Aplicada ao Processo,60,Prioridade / Preferência,30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Técnico em Qualidade,1º Semestre,Ferramentas da Qualidade e Análise de Falhas,80,Prioridade / Preferência,30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Técnico em Qualidade,1º Semestre,Fundamentos da Gestão da Qualidade,80,Prioridade / Preferência,30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Técnico em Qualidade,1º Semestre,Mapeamento e Padronização de Processos,80,Prioridade / Preferência,30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Técnico em Qualidade,2º Semestre,Auditoria Interna e Sistemas de Gestão (ISO 9001),80,Prioridade / Preferência,30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Técnico em Qualidade,2º Semestre,Controle Estatístico de Processo (CEP),80,Prioridade / Preferência,30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Técnico em Qualidade,2º Semestre,Custos da Qualidade e Produtividade,60,Prioridade / Preferência,30
+DOC32,MURILLO,Murillo Seraphim Rossi,SIM,NÃO,Técnico em Qualidade,2º Semestre,Metrologia Dimensional e Análise de Sistemas de Medição,80,Apto (Prático/Lab),25
+DOC33,MONTIBELLER,Marcelo Henrique Gonçalves Montibeller,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Desenho Técnico Mecânico,80,Prioridade / Preferência,30
+DOC33,MONTIBELLER,Marcelo Henrique Gonçalves Montibeller,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Tecnologia Mecânica,80,Plenamente Apto (Teórico + Prático),30
+DOC33,MONTIBELLER,Marcelo Henrique Gonçalves Montibeller,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Fundamentos da Usinagem Mecânica,160,Plenamente Apto (Teórico + Prático),30
+DOC33,MONTIBELLER,Marcelo Henrique Gonçalves Montibeller,SIM,NÃO,Mecânico de Usinagem (CAI),3º Termo,Usinagem em Fresadora,160,Plenamente Apto (Teórico + Prático),30
+DOC33,MONTIBELLER,Marcelo Henrique Gonçalves Montibeller,SIM,NÃO,Mecânico de Usinagem (CAI),3º Termo,Usinagem em Retificadora,120,Plenamente Apto (Teórico + Prático),30
+DOC33,MONTIBELLER,Marcelo Henrique Gonçalves Montibeller,SIM,NÃO,Mecânico de Usinagem (CAI),3º Termo,Fundamentos de CNC,120,Plenamente Apto (Teórico + Prático),30
+DOC33,MONTIBELLER,Marcelo Henrique Gonçalves Montibeller,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Metrologia Aplicada,80,Plenamente Apto (Teórico + Prático),30
+DOC33,MONTIBELLER,Marcelo Henrique Gonçalves Montibeller,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Processos Mecânicos Básicos,120,Plenamente Apto (Teórico + Prático),30
+DOC33,MONTIBELLER,Marcelo Henrique Gonçalves Montibeller,SIM,NÃO,Técnico em Manutenção Automotiva,1º Semestre,Metrologia e Ajustagem Mecânica,60,Plenamente Apto (Teórico + Prático),30
+DOC33,MONTIBELLER,Marcelo Henrique Gonçalves Montibeller,SIM,NÃO,Técnico em Qualidade,2º Semestre,Metrologia Dimensional e Análise de Sistemas de Medição,80,Plenamente Apto (Teórico + Prático),30
+DOC34,ALINE,Aline Cristina Garcia,SIM,NÃO,Eletricista de Manutenção Eletroeletrônica (CAI),1º Termo,Desenvolvimento Profissional e Comunicação,80,Plenamente Apto (Teórico + Prático),30
+DOC34,ALINE,Aline Cristina Garcia,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Comunicação Oral e Escrita,40,Plenamente Apto (Teórico + Prático),30
+DOC34,ALINE,Aline Cristina Garcia,SIM,NÃO,Mecânico de Máq. Agrícolas e Veíc. Pesados (CAI),1º Termo,Comunicação e Relações Interpessoais,40,Plenamente Apto (Teórico + Prático),30
+DOC35,VERA,Vera Zolin,SIM,NÃO,Mecânico de Usinagem (CAI),1º Termo,Matemática Aplicada à Usinagem,40,Plenamente Apto (Teórico + Prático),30

@@ -1,0 +1,8 @@
+{
+  "name": "SENAI Araçatuba - Gestão de Ocupação Docente & Ambientes",
+  "description": "Sistema avançado de gestão acadêmica com mapas de calor, indicadores de ocupação docente e de espaços, calendário semanal/mensal/semestral e otimização de recursos para o SENAI CFP 901.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

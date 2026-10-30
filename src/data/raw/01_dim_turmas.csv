@@ -1,0 +1,24 @@
+ID_Turma,Curso,Modalidade_Secao,Atendimento,Termo,Dias_Semana,Turno,Inicio,Termino,Matriculas,Modo_Divisao,Qtd_Subturmas,Docente_Ref_1,Docente_Ref_2,Docente_Ref_3,Inicio_Computo_2027,Termino_Computo_2027,Horas_Computaveis_2027,Status_Distribuicao_UCs_2027
+M1EME-COM-1/27,Eletricista de Manutenção Eletroeletrônica,TURMAS CAI - MANHÃ,COMUNIDADE,1º,Segunda a Sexta,Manhã,2027-01-25,2027-06-23,16,UNICA,1,Hálison,Aline,,,,,
+M1EME-ARA-1/27,Eletricista de Manutenção Eletroeletrônica,TURMAS CAI - MANHÃ,ARALCO,1º,Segunda a Sexta,Manhã,2027-01-25,2027-06-23,16,UNICA,1,À Contratar,Aline,,,,,
+M1MUSI-COM-1/27,Mecânico de Usinagem,TURMAS CAI - MANHÃ,COMUNIDADE,1º,Segunda a Sexta,Manhã,2027-01-25,2027-06-23,32,A_B,2,Montibeller,Baron,Vinícius,,,,
+M1MMAV-ARA-1/27,Mecânico de Máquinas Agrícolas e Veículos Pesados,TURMAS CAI - MANHÃ,ARALCO,1º,Segunda a Sexta,Manhã,2027-01-25,2027-06-23,16,UNICA,1,Valter,Jonathas,Vera,,,,
+M3MMAV-RAI-1/26,Mecânico de Máquinas Agrícolas e Veículos Pesados,TURMAS CAI - MANHÃ,RAÍZEN,3º,Segunda a Sexta,Manhã,2027-01-25,2027-06-23,12,UNICA,1,Emerson,,,,,,
+T3EME-COM-1/26,Eletricista de Manutenção Eletroeletrônica,TURMAS CAI - TARDE,COMUNIDADE,3º,Segunda a Sexta,Tarde,2027-01-25,2027-06-23,30,A_B,2,Trevelim,Hálison,,,,,
+T3EME-RAI-2/25,Eletricista de Manutenção Eletroeletrônica,TURMAS CAI - TARDE,RAÍZEN,3º,Segunda a Sexta,Tarde,2026-08-10,2027-02-19,12,UNICA,1,André,,,2027-01-25,2027-02-19,68,PENDENTE
+T3MUSI-COM-1/26,Mecânico de Usinagem,TURMAS CAI - TARDE,COMUNIDADE,3º,Segunda a Sexta,Tarde,2027-01-25,2027-06-23,31,A_B,2,Marcelo,Baron,Vinícius,,,,
+T3MMAV-RAI-2/25,Mecânico de Máquinas Agrícolas e Veículos Pesados,TURMAS CAI - TARDE,RAÍZEN,3º,Segunda a Sexta,Tarde,2026-08-10,2027-02-19,13,UNICA,1,Charles,Willian,,2027-01-25,2027-02-19,68,PENDENTE
+T1MMAV-RAI-2/26,Mecânico de Máquinas Agrícolas e Veículos Pesados,TURMAS CAI - TARDE,RAÍZEN,1º,Segunda a Sexta,Tarde,2026-10-05,2027-04-06,20,UNICA,1,Willian,Jonthas,Vera,2027-01-25,2027-04-06,192,PENDENTE
+I2MMAV-MATA/26,Mecânico de Máquinas Agrícolas e Veículos Pesados,TURMAS CAI - INTEGRAL,DA MATA,2º,Segunda e Terça,Integral,2026-10-26,2027-05-03,15,UNICA,1,Willian,Charles,,2027-01-25,2027-05-03,216,PENDENTE
+I1MMAV-VIT-1/27,Mecânico de Máquinas Agrícolas e Veículos Pesados,TURMAS CAI - INTEGRAL,VITERRA,1º,Quarta e Quinta,Integral,2027-01-25,2027-06-23,16,UNICA,1,Eduardo,Jonathas,Vera,,,,
+I1A-AUT-ATA/27,Técnico em Automação Industrial,ITINERÁRIO FORMATIVO SESI,SESI ATA,1º,Quinta e Sexta,Integral,2027-01-25,2027-12-23,32,A_B,2,Luis,Cleber,Aline,,,,
+I1B-AUT-ATA/27,Técnico em Automação Industrial,ITINERÁRIO FORMATIVO SESI,SESI ATA,1º,Quinta e Sexta,Integral,2027-01-25,2027-12-23,32,A_B,2,Josias,Érico,Murillo,,,,
+I2A-AUT-ATA/26,Técnico em Automação Industrial,ITINERÁRIO FORMATIVO SESI,SESI ATA,2º,Segunda e Terça,Integral,2027-01-25,2027-12-23,32,A_B,2,Luis,Cleber,,,,,
+I2B-AUT-ATA/26,Técnico em Automação Industrial,ITINERÁRIO FORMATIVO SESI,SESI ATA,2º,Segunda e Terça,Integral,2027-01-25,2027-12-23,32,A_B,2,Josias,Erico,,,,,
+I1-DEV-ATA-1/27,Técnico em Desenvolvimento de Sistemas,ITINERÁRIO FORMATIVO SESI,SESI ATA,1º,Quinta e Sexta,Integral,2027-01-25,2027-12-23,32,A_B,2,Cezar,Heitor,,,,,
+I2-DEV-ATA-1/26,Técnico em Desenvolvimento de Sistemas,ITINERÁRIO FORMATIVO SESI,SESI ATA,2º,Segunda e Terça,Integral,2027-01-25,2027-12-23,32,A_B,2,Cezar,Heitor,,,,,
+I1MAUT-ATA-1/27,Técnico em Manutenção Automotiva,ITINERÁRIO FORMATIVO SESI,SESI ATA,1º,Quinta e Sexta,Integral,2027-01-25,2027-12-23,32,A_B,2,Fernando,Felipe,Valter,,,,
+I2MAUT-ATA-1/26,Técnico em Manutenção Automotiva,ITINERÁRIO FORMATIVO SESI,SESI ATA,2º,Segunda e Terça,Integral,2027-01-25,2027-12-23,31,A_B,2,Fernando,Felipe,Valter,,,,
+I1QUA-SEDUC/27,Técnico em Qualidade,ITINERÁRIO FORMATIVO SEDUC,SEDUC,1º,Terça e Quarta,Integral,2027-01-25,2027-12-23,32,CHEIA,1,Ferrarese,Murillo,Silvio,,,,
+I2QUA-SEDUC/26,Técnico em Qualidade,ITINERÁRIO FORMATIVO SEDUC,SEDUC,2º,Quinta e Sexta,Integral,2027-01-25,2027-12-23,32,CHEIA,1,Ferrarese,Murillo,Silvio,,,,
+I1ELE-COLOR/27,Técnico em Eletroeletrônica,TURMA CT - EMPRESA,COLORMAQ,1º,Quarta e Quinta,Integral,2027-01-25,2027-06-23,16,UNICA,1,Trevelim,Hálison,,,,,
